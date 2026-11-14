@@ -1,0 +1,6 @@
+| variable | Russian growth | Chinese growth | Trade-weighted partner growth | Remittance-weighted partner growth |
+|---|---|---|---|---|
+| Russian growth | 1.0 | 0.513 | 0.868 | 0.993 |
+| Chinese growth | 0.513 | 1.0 | 0.656 | 0.572 |
+| Trade-weighted partner growth | 0.868 | 0.656 | 1.0 | 0.885 |
+| Remittance-weighted partner growth | 0.993 | 0.572 | 0.885 | 1.0 |

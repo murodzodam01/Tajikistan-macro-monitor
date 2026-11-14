@@ -1,0 +1,22 @@
+downloaded_at_utc,file,url,status,size_bytes,note
+2026-11-14 02:40:51,imf_weo/weo_live_TJK.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/TJK.*.A,200,50021,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:52,imf_weo/weo_live_KGZ.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/KGZ.*.A,200,52019,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:53,imf_weo/weo_live_UZB.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/UZB.*.A,200,53280,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:54,imf_weo/weo_live_KAZ.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/KAZ.*.A,200,54281,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:55,imf_weo/weo_live_RUS.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/RUS.*.A,200,54256,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:56,imf_weo/weo_live_CHN.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/CHN.*.A,200,60534,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:57,imf_weo/weo_live_all_countries_ngdp_rpch.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/+/*.NGDP_RPCH.A,200,194611,WEO live dataflow = October 2026 edition (checked 2026-11-13)
+2026-11-14 02:40:58,imf_weo/weo_2026apr_all_countries_ngdp_rpch.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO_2026_APR_VINTAGE/+/*.NGDP_RPCH.A,200,194506,WEO April 2026 vintage dataflow
+2026-11-14 02:40:59,imf_imts/imts_TJK.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/IMTS/+/TJK.*.*.A,200,322030,
+2026-11-14 02:41:01,imf_imts/imts_KGZ.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/IMTS/+/KGZ.*.*.A,200,350381,
+2026-11-14 02:41:02,imf_imts/imts_UZB.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/IMTS/+/UZB.*.*.A,200,370432,
+2026-11-14 02:41:04,imf_imts/imts_KAZ.json,https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.STA/IMTS/+/KAZ.*.*.A,200,490765,
+2026-11-14 02:41:05,imf_structure/dsd_imts.json,https://api.imf.org/external/sdmx/3.0/structure/datastructure/IMF.STA/DSD_IMTS/+?references=descendants,200,2661098,
+2026-11-14 02:41:07,imf_structure/dsd_weo.json,https://api.imf.org/external/sdmx/3.0/structure/datastructure/IMF.RES/DSD_WEO/+?references=descendants,200,2867210,
+2026-11-14 02:46:11,wb_wdi/BX.TRF.PWKR.CD.DT.json,https://api.worldbank.org/v2/country/TJK;KGZ;UZB;KAZ;RUS;CHN/indicator/BX.TRF.PWKR.CD.DT?format=json&per_page=1000&date=1990%3A2026,200,51177,
+2026-11-14 02:46:35,wb_wdi/BX.TRF.PWKR.DT.GD.ZS.json,https://api.worldbank.org/v2/country/TJK;KGZ;UZB;KAZ;RUS;CHN/indicator/BX.TRF.PWKR.DT.GD.ZS?format=json&per_page=1000&date=1990%3A2026,200,51849,
+2026-11-14 02:53:21,wb_wdi/PA.NUS.FCRF.json,https://api.worldbank.org/v2/country/TJK;KGZ;UZB;KAZ;RUS;CHN/indicator/PA.NUS.FCRF?format=json&per_page=1000&date=1990%3A2026,200,51974,
+2026-11-14 03:00:08,wb_wdi/DT.DOD.DPPG.CD.json,https://api.worldbank.org/v2/country/TJK;KGZ;UZB;KAZ;RUS;CHN/indicator/DT.DOD.DPPG.CD?format=json&per_page=1000&date=1990%3A2026,200,57787,
+2026-11-14 03:01:50,wb_wdi/NY.GNP.PCAP.PP.CD_all_countries.json,https://api.worldbank.org/v2/country/all/indicator/NY.GNP.PCAP.PP.CD?format=json&per_page=20000&date=1990%3A2026,200,2241128,
+2026-11-14 03:01:50,wb_ids/tjk_bilateral_ppg_debt_china.json,https://api.worldbank.org/v2/sources/6/country/TJK/series/DT.DOD.BLAT.CD/counterpart-area/730/time/all?format=json&per_page=500,200,17906,
+2026-11-14 03:01:51,wb_ids/tjk_bilateral_ppg_debt_russia.json,https://api.worldbank.org/v2/sources/6/country/TJK/series/DT.DOD.BLAT.CD/counterpart-area/087/time/all?format=json&per_page=500,200,18640,

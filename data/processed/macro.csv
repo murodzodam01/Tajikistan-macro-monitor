@@ -1,0 +1,1976 @@
+country,year,variable,value,unit,source
+TJK,1992,current_account,-16.750403,% of GDP,IMF WEO October 2026
+TJK,1993,current_account,-30.466707,% of GDP,IMF WEO October 2026
+TJK,1994,current_account,-20.172593,% of GDP,IMF WEO October 2026
+TJK,1995,current_account,-17.885575,% of GDP,IMF WEO October 2026
+TJK,1996,current_account,-7.834738,% of GDP,IMF WEO October 2026
+TJK,1997,current_account,-4.011245,% of GDP,IMF WEO October 2026
+TJK,1998,current_account,-7.316292,% of GDP,IMF WEO October 2026
+TJK,1999,current_account,-0.90671,% of GDP,IMF WEO October 2026
+TJK,2000,current_account,-1.619666,% of GDP,IMF WEO October 2026
+TJK,2001,current_account,-4.948612,% of GDP,IMF WEO October 2026
+TJK,2002,current_account,-1.248775,% of GDP,IMF WEO October 2026
+TJK,2003,current_account,-0.306399,% of GDP,IMF WEO October 2026
+TJK,2004,current_account,-2.751379,% of GDP,IMF WEO October 2026
+TJK,2005,current_account,-12.818792,% of GDP,IMF WEO October 2026
+TJK,2006,current_account,-13.246816,% of GDP,IMF WEO October 2026
+TJK,2007,current_account,-32.159038,% of GDP,IMF WEO October 2026
+TJK,2008,current_account,-20.620193,% of GDP,IMF WEO October 2026
+TJK,2009,current_account,-14.415473,% of GDP,IMF WEO October 2026
+TJK,2010,current_account,-10.29968,% of GDP,IMF WEO October 2026
+TJK,2011,current_account,-6.336741,% of GDP,IMF WEO October 2026
+TJK,2012,current_account,-8.974619,% of GDP,IMF WEO October 2026
+TJK,2013,current_account,-10.401799,% of GDP,IMF WEO October 2026
+TJK,2014,current_account,-3.423915,% of GDP,IMF WEO October 2026
+TJK,2015,current_account,-6.0721,% of GDP,IMF WEO October 2026
+TJK,2016,current_account,-5.231467,% of GDP,IMF WEO October 2026
+TJK,2017,current_account,2.109766,% of GDP,IMF WEO October 2026
+TJK,2018,current_account,-4.891274,% of GDP,IMF WEO October 2026
+TJK,2019,current_account,-2.232277,% of GDP,IMF WEO October 2026
+TJK,2020,current_account,4.349173,% of GDP,IMF WEO October 2026
+TJK,2021,current_account,8.23316,% of GDP,IMF WEO October 2026
+TJK,2022,current_account,15.25377,% of GDP,IMF WEO October 2026
+TJK,2023,current_account,4.770497,% of GDP,IMF WEO October 2026
+TJK,2024,current_account,6.423357,% of GDP,IMF WEO October 2026
+TJK,2025,current_account,17.214256,% of GDP,IMF WEO October 2026
+TJK,2026,current_account,8.153154,% of GDP,IMF WEO October 2026
+TJK,2027,current_account,3.475202,% of GDP,IMF WEO October 2026
+TJK,2028,current_account,2.099514,% of GDP,IMF WEO October 2026
+TJK,2029,current_account,1.067597,% of GDP,IMF WEO October 2026
+TJK,2030,current_account,-0.306962,% of GDP,IMF WEO October 2026
+TJK,2031,current_account,-1.80719,% of GDP,IMF WEO October 2026
+TJK,1998,government_debt,96.566524,% of GDP,IMF WEO October 2026
+TJK,1999,government_debt,107.806691,% of GDP,IMF WEO October 2026
+TJK,2000,government_debt,111.428907,% of GDP,IMF WEO October 2026
+TJK,2001,government_debt,99.448644,% of GDP,IMF WEO October 2026
+TJK,2002,government_debt,98.296912,% of GDP,IMF WEO October 2026
+TJK,2003,government_debt,69.760188,% of GDP,IMF WEO October 2026
+TJK,2004,government_debt,49.412182,% of GDP,IMF WEO October 2026
+TJK,2005,government_debt,45.843282,% of GDP,IMF WEO October 2026
+TJK,2006,government_debt,36.806967,% of GDP,IMF WEO October 2026
+TJK,2007,government_debt,34.269358,% of GDP,IMF WEO October 2026
+TJK,2008,government_debt,30.228601,% of GDP,IMF WEO October 2026
+TJK,2009,government_debt,36.939891,% of GDP,IMF WEO October 2026
+TJK,2010,government_debt,36.837828,% of GDP,IMF WEO October 2026
+TJK,2011,government_debt,35.512324,% of GDP,IMF WEO October 2026
+TJK,2012,government_debt,32.462498,% of GDP,IMF WEO October 2026
+TJK,2013,government_debt,29.291642,% of GDP,IMF WEO October 2026
+TJK,2014,government_debt,27.892329,% of GDP,IMF WEO October 2026
+TJK,2015,government_debt,35.018934,% of GDP,IMF WEO October 2026
+TJK,2016,government_debt,42.179214,% of GDP,IMF WEO October 2026
+TJK,2017,government_debt,46.299834,% of GDP,IMF WEO October 2026
+TJK,2018,government_debt,46.295104,% of GDP,IMF WEO October 2026
+TJK,2019,government_debt,43.206878,% of GDP,IMF WEO October 2026
+TJK,2020,government_debt,50.939879,% of GDP,IMF WEO October 2026
+TJK,2021,government_debt,42.013467,% of GDP,IMF WEO October 2026
+TJK,2022,government_debt,31.793162,% of GDP,IMF WEO October 2026
+TJK,2023,government_debt,29.946907,% of GDP,IMF WEO October 2026
+TJK,2024,government_debt,24.906496,% of GDP,IMF WEO October 2026
+TJK,2025,government_debt,18.602124,% of GDP,IMF WEO October 2026
+TJK,2026,government_debt,18.254661,% of GDP,IMF WEO October 2026
+TJK,2027,government_debt,18.661465,% of GDP,IMF WEO October 2026
+TJK,2028,government_debt,19.719269,% of GDP,IMF WEO October 2026
+TJK,2029,government_debt,20.700073,% of GDP,IMF WEO October 2026
+TJK,2030,government_debt,21.509961,% of GDP,IMF WEO October 2026
+TJK,2031,government_debt,22.18247,% of GDP,IMF WEO October 2026
+TJK,1992,gdp_usd,291336000.0,US$,IMF WEO October 2026
+TJK,1993,gdp_usd,677980000.0,US$,IMF WEO October 2026
+TJK,1994,gdp_usd,829366000.0,US$,IMF WEO October 2026
+TJK,1995,gdp_usd,569301000.0,US$,IMF WEO October 2026
+TJK,1996,gdp_usd,1051694000.0,US$,IMF WEO October 2026
+TJK,1997,gdp_usd,1121285000.0,US$,IMF WEO October 2026
+TJK,1998,gdp_usd,1320031000.0,US$,IMF WEO October 2026
+TJK,1999,gdp_usd,1086686000.0,US$,IMF WEO October 2026
+TJK,2000,gdp_usd,990968000.0,US$,IMF WEO October 2026
+TJK,2001,gdp_usd,1056849000.0,US$,IMF WEO October 2026
+TJK,2002,gdp_usd,1211892000.0,US$,IMF WEO October 2026
+TJK,2003,gdp_usd,1554735000.0,US$,IMF WEO October 2026
+TJK,2004,gdp_usd,2073218000.0,US$,IMF WEO October 2026
+TJK,2005,gdp_usd,2310744000.0,US$,IMF WEO October 2026
+TJK,2006,gdp_usd,2811326000.0,US$,IMF WEO October 2026
+TJK,2007,gdp_usd,3712264000.0,US$,IMF WEO October 2026
+TJK,2008,gdp_usd,5134683000.0,US$,IMF WEO October 2026
+TJK,2009,gdp_usd,4977075000.0,US$,IMF WEO October 2026
+TJK,2010,gdp_usd,5641715000.0,US$,IMF WEO October 2026
+TJK,2011,gdp_usd,6522569000.0,US$,IMF WEO October 2026
+TJK,2012,gdp_usd,7592498000.0,US$,IMF WEO October 2026
+TJK,2013,gdp_usd,8506145000.0,US$,IMF WEO October 2026
+TJK,2014,gdp_usd,9242478000.0,US$,IMF WEO October 2026
+TJK,2015,gdp_usd,7856830000.0,US$,IMF WEO October 2026
+TJK,2016,gdp_usd,6993598000.0,US$,IMF WEO October 2026
+TJK,2017,gdp_usd,7534926000.0,US$,IMF WEO October 2026
+TJK,2018,gdp_usd,7762446000.0,US$,IMF WEO October 2026
+TJK,2019,gdp_usd,8300711000.0,US$,IMF WEO October 2026
+TJK,2020,gdp_usd,8133979000.0,US$,IMF WEO October 2026
+TJK,2021,gdp_usd,8933700000.0,US$,IMF WEO October 2026
+TJK,2022,gdp_usd,10716049000.0,US$,IMF WEO October 2026
+TJK,2023,gdp_usd,12242383000.0,US$,IMF WEO October 2026
+TJK,2024,gdp_usd,14425777000.0,US$,IMF WEO October 2026
+TJK,2025,gdp_usd,17541694000.0,US$,IMF WEO October 2026
+TJK,2026,gdp_usd,21113578000.0,US$,IMF WEO October 2026
+TJK,2027,gdp_usd,23045222000.0,US$,IMF WEO October 2026
+TJK,2028,gdp_usd,24767258000.0,US$,IMF WEO October 2026
+TJK,2029,gdp_usd,26602722000.0,US$,IMF WEO October 2026
+TJK,2030,gdp_usd,28635329000.0,US$,IMF WEO October 2026
+TJK,2031,gdp_usd,31128667000.0,US$,IMF WEO October 2026
+TJK,1993,gdp_growth,-11.099346,% change,IMF WEO October 2026
+TJK,1994,gdp_growth,-21.400707,% change,IMF WEO October 2026
+TJK,1995,gdp_growth,-12.497774,% change,IMF WEO October 2026
+TJK,1996,gdp_growth,-4.367561,% change,IMF WEO October 2026
+TJK,1997,gdp_growth,1.7,% change,IMF WEO October 2026
+TJK,1998,gdp_growth,5.3,% change,IMF WEO October 2026
+TJK,1999,gdp_growth,3.699392,% change,IMF WEO October 2026
+TJK,2000,gdp_growth,8.3,% change,IMF WEO October 2026
+TJK,2001,gdp_growth,10.2,% change,IMF WEO October 2026
+TJK,2002,gdp_growth,9.1,% change,IMF WEO October 2026
+TJK,2003,gdp_growth,10.2,% change,IMF WEO October 2026
+TJK,2004,gdp_growth,10.6,% change,IMF WEO October 2026
+TJK,2005,gdp_growth,6.7,% change,IMF WEO October 2026
+TJK,2006,gdp_growth,7.0,% change,IMF WEO October 2026
+TJK,2007,gdp_growth,7.799907,% change,IMF WEO October 2026
+TJK,2008,gdp_growth,7.9,% change,IMF WEO October 2026
+TJK,2009,gdp_growth,3.9,% change,IMF WEO October 2026
+TJK,2010,gdp_growth,6.5,% change,IMF WEO October 2026
+TJK,2011,gdp_growth,7.4,% change,IMF WEO October 2026
+TJK,2012,gdp_growth,7.5,% change,IMF WEO October 2026
+TJK,2013,gdp_growth,7.4,% change,IMF WEO October 2026
+TJK,2014,gdp_growth,6.7,% change,IMF WEO October 2026
+TJK,2015,gdp_growth,6.0,% change,IMF WEO October 2026
+TJK,2016,gdp_growth,6.9,% change,IMF WEO October 2026
+TJK,2017,gdp_growth,7.1,% change,IMF WEO October 2026
+TJK,2018,gdp_growth,7.6,% change,IMF WEO October 2026
+TJK,2019,gdp_growth,7.4,% change,IMF WEO October 2026
+TJK,2020,gdp_growth,4.39,% change,IMF WEO October 2026
+TJK,2021,gdp_growth,9.4,% change,IMF WEO October 2026
+TJK,2022,gdp_growth,8.0,% change,IMF WEO October 2026
+TJK,2023,gdp_growth,8.25,% change,IMF WEO October 2026
+TJK,2024,gdp_growth,8.4165,% change,IMF WEO October 2026
+TJK,2025,gdp_growth,8.4,% change,IMF WEO October 2026
+TJK,2026,gdp_growth,7.3,% change,IMF WEO October 2026
+TJK,2027,gdp_growth,6.8,% change,IMF WEO October 2026
+TJK,2028,gdp_growth,6.2,% change,IMF WEO October 2026
+TJK,2029,gdp_growth,6.0,% change,IMF WEO October 2026
+TJK,2030,gdp_growth,5.5,% change,IMF WEO October 2026
+TJK,2031,gdp_growth,5.5,% change,IMF WEO October 2026
+TJK,1993,inflation,2600.715377,"% change, period average",IMF WEO October 2026
+TJK,1994,inflation,350.358053,"% change, period average",IMF WEO October 2026
+TJK,1995,inflation,612.480626,"% change, period average",IMF WEO October 2026
+TJK,1996,inflation,418.471847,"% change, period average",IMF WEO October 2026
+TJK,1997,inflation,87.955912,"% change, period average",IMF WEO October 2026
+TJK,1998,inflation,43.174583,"% change, period average",IMF WEO October 2026
+TJK,1999,inflation,27.451941,"% change, period average",IMF WEO October 2026
+TJK,2000,inflation,32.850949,"% change, period average",IMF WEO October 2026
+TJK,2001,inflation,38.591889,"% change, period average",IMF WEO October 2026
+TJK,2002,inflation,12.227218,"% change, period average",IMF WEO October 2026
+TJK,2003,inflation,16.355677,"% change, period average",IMF WEO October 2026
+TJK,2004,inflation,7.205736,"% change, period average",IMF WEO October 2026
+TJK,2005,inflation,7.276508,"% change, period average",IMF WEO October 2026
+TJK,2006,inflation,9.969216,"% change, period average",IMF WEO October 2026
+TJK,2007,inflation,13.168148,"% change, period average",IMF WEO October 2026
+TJK,2008,inflation,20.4289,"% change, period average",IMF WEO October 2026
+TJK,2009,inflation,6.41923,"% change, period average",IMF WEO October 2026
+TJK,2010,inflation,6.46277,"% change, period average",IMF WEO October 2026
+TJK,2011,inflation,12.422054,"% change, period average",IMF WEO October 2026
+TJK,2012,inflation,5.795996,"% change, period average",IMF WEO October 2026
+TJK,2013,inflation,5.035011,"% change, period average",IMF WEO October 2026
+TJK,2014,inflation,6.076874,"% change, period average",IMF WEO October 2026
+TJK,2015,inflation,5.780545,"% change, period average",IMF WEO October 2026
+TJK,2016,inflation,5.913727,"% change, period average",IMF WEO October 2026
+TJK,2017,inflation,7.31022,"% change, period average",IMF WEO October 2026
+TJK,2018,inflation,3.842586,"% change, period average",IMF WEO October 2026
+TJK,2019,inflation,7.790142,"% change, period average",IMF WEO October 2026
+TJK,2020,inflation,8.580452,"% change, period average",IMF WEO October 2026
+TJK,2021,inflation,8.973899,"% change, period average",IMF WEO October 2026
+TJK,2022,inflation,6.641442,"% change, period average",IMF WEO October 2026
+TJK,2023,inflation,3.652009,"% change, period average",IMF WEO October 2026
+TJK,2024,inflation,3.486323,"% change, period average",IMF WEO October 2026
+TJK,2025,inflation,3.378514,"% change, period average",IMF WEO October 2026
+TJK,2026,inflation,4.1,"% change, period average",IMF WEO October 2026
+TJK,2027,inflation,4.85,"% change, period average",IMF WEO October 2026
+TJK,2028,inflation,5.0,"% change, period average",IMF WEO October 2026
+TJK,2029,inflation,5.0,"% change, period average",IMF WEO October 2026
+TJK,2030,inflation,5.0,"% change, period average",IMF WEO October 2026
+TJK,2031,inflation,5.0,"% change, period average",IMF WEO October 2026
+KGZ,1992,current_account,-5.746931,% of GDP,IMF WEO October 2026
+KGZ,1993,current_account,-13.011746,% of GDP,IMF WEO October 2026
+KGZ,1994,current_account,-7.616656,% of GDP,IMF WEO October 2026
+KGZ,1995,current_account,-15.721929,% of GDP,IMF WEO October 2026
+KGZ,1996,current_account,-23.308248,% of GDP,IMF WEO October 2026
+KGZ,1997,current_account,-7.833027,% of GDP,IMF WEO October 2026
+KGZ,1998,current_account,-22.329862,% of GDP,IMF WEO October 2026
+KGZ,1999,current_account,-14.808147,% of GDP,IMF WEO October 2026
+KGZ,2000,current_account,-4.315656,% of GDP,IMF WEO October 2026
+KGZ,2001,current_account,-1.546137,% of GDP,IMF WEO October 2026
+KGZ,2002,current_account,2.824837,% of GDP,IMF WEO October 2026
+KGZ,2003,current_account,10.129124,% of GDP,IMF WEO October 2026
+KGZ,2004,current_account,6.080054,% of GDP,IMF WEO October 2026
+KGZ,2005,current_account,3.798461,% of GDP,IMF WEO October 2026
+KGZ,2006,current_account,-2.471742,% of GDP,IMF WEO October 2026
+KGZ,2007,current_account,-5.077011,% of GDP,IMF WEO October 2026
+KGZ,2008,current_account,-13.767805,% of GDP,IMF WEO October 2026
+KGZ,2009,current_account,-4.314238,% of GDP,IMF WEO October 2026
+KGZ,2010,current_account,-6.614952,% of GDP,IMF WEO October 2026
+KGZ,2011,current_account,-7.733554,% of GDP,IMF WEO October 2026
+KGZ,2012,current_account,-15.451248,% of GDP,IMF WEO October 2026
+KGZ,2013,current_account,-13.853046,% of GDP,IMF WEO October 2026
+KGZ,2014,current_account,-17.000295,% of GDP,IMF WEO October 2026
+KGZ,2015,current_account,-15.851616,% of GDP,IMF WEO October 2026
+KGZ,2016,current_account,-11.624619,% of GDP,IMF WEO October 2026
+KGZ,2017,current_account,-6.197443,% of GDP,IMF WEO October 2026
+KGZ,2018,current_account,-12.053559,% of GDP,IMF WEO October 2026
+KGZ,2019,current_account,-11.451681,% of GDP,IMF WEO October 2026
+KGZ,2020,current_account,4.516487,% of GDP,IMF WEO October 2026
+KGZ,2021,current_account,-7.984291,% of GDP,IMF WEO October 2026
+KGZ,2022,current_account,-41.922394,% of GDP,IMF WEO October 2026
+KGZ,2023,current_account,-44.921325,% of GDP,IMF WEO October 2026
+KGZ,2024,current_account,-22.633649,% of GDP,IMF WEO October 2026
+KGZ,2025,current_account,-24.863136,% of GDP,IMF WEO October 2026
+KGZ,2026,current_account,-9.000142,% of GDP,IMF WEO October 2026
+KGZ,2027,current_account,-8.713488,% of GDP,IMF WEO October 2026
+KGZ,2028,current_account,-7.320707,% of GDP,IMF WEO October 2026
+KGZ,2029,current_account,-6.135939,% of GDP,IMF WEO October 2026
+KGZ,2030,current_account,-5.135909,% of GDP,IMF WEO October 2026
+KGZ,2031,current_account,-5.036249,% of GDP,IMF WEO October 2026
+KGZ,2000,government_debt,123.302654,% of GDP,IMF WEO October 2026
+KGZ,2001,government_debt,108.207494,% of GDP,IMF WEO October 2026
+KGZ,2002,government_debt,107.941474,% of GDP,IMF WEO October 2026
+KGZ,2003,government_debt,108.230279,% of GDP,IMF WEO October 2026
+KGZ,2004,government_debt,92.666456,% of GDP,IMF WEO October 2026
+KGZ,2005,government_debt,85.660709,% of GDP,IMF WEO October 2026
+KGZ,2006,government_debt,73.35469,% of GDP,IMF WEO October 2026
+KGZ,2007,government_debt,57.743779,% of GDP,IMF WEO October 2026
+KGZ,2008,government_debt,49.011562,% of GDP,IMF WEO October 2026
+KGZ,2009,government_debt,58.494401,% of GDP,IMF WEO October 2026
+KGZ,2010,government_debt,59.69859,% of GDP,IMF WEO October 2026
+KGZ,2011,government_debt,50.055759,% of GDP,IMF WEO October 2026
+KGZ,2012,government_debt,50.477879,% of GDP,IMF WEO October 2026
+KGZ,2013,government_debt,47.124756,% of GDP,IMF WEO October 2026
+KGZ,2014,government_debt,53.596786,% of GDP,IMF WEO October 2026
+KGZ,2015,government_debt,67.087345,% of GDP,IMF WEO October 2026
+KGZ,2016,government_debt,59.072818,% of GDP,IMF WEO October 2026
+KGZ,2017,government_debt,58.786107,% of GDP,IMF WEO October 2026
+KGZ,2018,government_debt,54.817991,% of GDP,IMF WEO October 2026
+KGZ,2019,government_debt,48.848251,% of GDP,IMF WEO October 2026
+KGZ,2020,government_debt,63.643007,% of GDP,IMF WEO October 2026
+KGZ,2021,government_debt,56.201055,% of GDP,IMF WEO October 2026
+KGZ,2022,government_debt,46.821912,% of GDP,IMF WEO October 2026
+KGZ,2023,government_debt,41.950261,% of GDP,IMF WEO October 2026
+KGZ,2024,government_debt,36.229677,% of GDP,IMF WEO October 2026
+KGZ,2025,government_debt,39.447609,% of GDP,IMF WEO October 2026
+KGZ,2026,government_debt,34.007897,% of GDP,IMF WEO October 2026
+KGZ,2027,government_debt,32.242754,% of GDP,IMF WEO October 2026
+KGZ,2028,government_debt,31.38108,% of GDP,IMF WEO October 2026
+KGZ,2029,government_debt,30.807802,% of GDP,IMF WEO October 2026
+KGZ,2030,government_debt,31.108671,% of GDP,IMF WEO October 2026
+KGZ,2031,government_debt,31.380863,% of GDP,IMF WEO October 2026
+KGZ,1992,gdp_usd,917314000.0,US$,IMF WEO October 2026
+KGZ,1993,gdp_usd,664531000.0,US$,IMF WEO October 2026
+KGZ,1994,gdp_usd,1107592000.0,US$,IMF WEO October 2026
+KGZ,1995,gdp_usd,1492951000.0,US$,IMF WEO October 2026
+KGZ,1996,gdp_usd,1822257000.0,US$,IMF WEO October 2026
+KGZ,1997,gdp_usd,1766764000.0,US$,IMF WEO October 2026
+KGZ,1998,gdp_usd,1629677000.0,US$,IMF WEO October 2026
+KGZ,1999,gdp_usd,1242230000.0,US$,IMF WEO October 2026
+KGZ,2000,gdp_usd,1368013000.0,US$,IMF WEO October 2026
+KGZ,2001,gdp_usd,1525399000.0,US$,IMF WEO October 2026
+KGZ,2002,gdp_usd,1606408000.0,US$,IMF WEO October 2026
+KGZ,2003,gdp_usd,1919527000.0,US$,IMF WEO October 2026
+KGZ,2004,gdp_usd,2214489000.0,US$,IMF WEO October 2026
+KGZ,2005,gdp_usd,2459011000.0,US$,IMF WEO October 2026
+KGZ,2006,gdp_usd,2836514000.0,US$,IMF WEO October 2026
+KGZ,2007,gdp_usd,3807039000.0,US$,IMF WEO October 2026
+KGZ,2008,gdp_usd,5139403000.0,US$,IMF WEO October 2026
+KGZ,2009,gdp_usd,4690061000.0,US$,IMF WEO October 2026
+KGZ,2010,gdp_usd,4794362000.0,US$,IMF WEO October 2026
+KGZ,2011,gdp_usd,6197766000.0,US$,IMF WEO October 2026
+KGZ,2012,gdp_usd,6604063000.0,US$,IMF WEO October 2026
+KGZ,2013,gdp_usd,7335034000.0,US$,IMF WEO October 2026
+KGZ,2014,gdp_usd,7466916000.0,US$,IMF WEO October 2026
+KGZ,2015,gdp_usd,6678177000.0,US$,IMF WEO October 2026
+KGZ,2016,gdp_usd,6813095000.0,US$,IMF WEO October 2026
+KGZ,2017,gdp_usd,7702943000.0,US$,IMF WEO October 2026
+KGZ,2018,gdp_usd,8271106000.0,US$,IMF WEO October 2026
+KGZ,2019,gdp_usd,9372061000.0,US$,IMF WEO October 2026
+KGZ,2020,gdp_usd,8282735000.0,US$,IMF WEO October 2026
+KGZ,2021,gdp_usd,9255675000.0,US$,IMF WEO October 2026
+KGZ,2022,gdp_usd,12269190000.0,US$,IMF WEO October 2026
+KGZ,2023,gdp_usd,15187111000.0,US$,IMF WEO October 2026
+KGZ,2024,gdp_usd,18175326000.0,US$,IMF WEO October 2026
+KGZ,2025,gdp_usd,22625108000.0,US$,IMF WEO October 2026
+KGZ,2026,gdp_usd,26687436000.0,US$,IMF WEO October 2026
+KGZ,2027,gdp_usd,30015796000.0,US$,IMF WEO October 2026
+KGZ,2028,gdp_usd,33124160000.0,US$,IMF WEO October 2026
+KGZ,2029,gdp_usd,36008437000.0,US$,IMF WEO October 2026
+KGZ,2030,gdp_usd,38188369000.0,US$,IMF WEO October 2026
+KGZ,2031,gdp_usd,39891738000.0,US$,IMF WEO October 2026
+KGZ,1993,gdp_growth,-13.005233,% change,IMF WEO October 2026
+KGZ,1994,gdp_growth,-19.80676,% change,IMF WEO October 2026
+KGZ,1995,gdp_growth,-5.423822,% change,IMF WEO October 2026
+KGZ,1996,gdp_growth,7.084502,% change,IMF WEO October 2026
+KGZ,1997,gdp_growth,9.915254,% change,IMF WEO October 2026
+KGZ,1998,gdp_growth,2.121835,% change,IMF WEO October 2026
+KGZ,1999,gdp_growth,3.655789,% change,IMF WEO October 2026
+KGZ,2000,gdp_growth,5.443337,% change,IMF WEO October 2026
+KGZ,2001,gdp_growth,5.321621,% change,IMF WEO October 2026
+KGZ,2002,gdp_growth,-0.017325,% change,IMF WEO October 2026
+KGZ,2003,gdp_growth,7.030316,% change,IMF WEO October 2026
+KGZ,2004,gdp_growth,7.02686,% change,IMF WEO October 2026
+KGZ,2005,gdp_growth,-0.175548,% change,IMF WEO October 2026
+KGZ,2006,gdp_growth,3.102899,% change,IMF WEO October 2026
+KGZ,2007,gdp_growth,8.542875,% change,IMF WEO October 2026
+KGZ,2008,gdp_growth,7.566226,% change,IMF WEO October 2026
+KGZ,2009,gdp_growth,2.886295,% change,IMF WEO October 2026
+KGZ,2010,gdp_growth,-0.471567,% change,IMF WEO October 2026
+KGZ,2011,gdp_growth,5.956274,% change,IMF WEO October 2026
+KGZ,2012,gdp_growth,-0.08815,% change,IMF WEO October 2026
+KGZ,2013,gdp_growth,10.915469,% change,IMF WEO October 2026
+KGZ,2014,gdp_growth,4.024039,% change,IMF WEO October 2026
+KGZ,2015,gdp_growth,3.875825,% change,IMF WEO October 2026
+KGZ,2016,gdp_growth,4.335856,% change,IMF WEO October 2026
+KGZ,2017,gdp_growth,4.739937,% change,IMF WEO October 2026
+KGZ,2018,gdp_growth,3.459214,% change,IMF WEO October 2026
+KGZ,2019,gdp_growth,4.600626,% change,IMF WEO October 2026
+KGZ,2020,gdp_growth,-7.148978,% change,IMF WEO October 2026
+KGZ,2021,gdp_growth,5.507008,% change,IMF WEO October 2026
+KGZ,2022,gdp_growth,8.967505,% change,IMF WEO October 2026
+KGZ,2023,gdp_growth,9.013293,% change,IMF WEO October 2026
+KGZ,2024,gdp_growth,11.539712,% change,IMF WEO October 2026
+KGZ,2025,gdp_growth,11.096006,% change,IMF WEO October 2026
+KGZ,2026,gdp_growth,8.960094,% change,IMF WEO October 2026
+KGZ,2027,gdp_growth,7.040371,% change,IMF WEO October 2026
+KGZ,2028,gdp_growth,7.531892,% change,IMF WEO October 2026
+KGZ,2029,gdp_growth,6.537951,% change,IMF WEO October 2026
+KGZ,2030,gdp_growth,5.480815,% change,IMF WEO October 2026
+KGZ,2031,gdp_growth,5.347177,% change,IMF WEO October 2026
+KGZ,1993,inflation,1086.189518,"% change, period average",IMF WEO October 2026
+KGZ,1994,inflation,180.683272,"% change, period average",IMF WEO October 2026
+KGZ,1995,inflation,42.173987,"% change, period average",IMF WEO October 2026
+KGZ,1996,inflation,31.947338,"% change, period average",IMF WEO October 2026
+KGZ,1997,inflation,23.435428,"% change, period average",IMF WEO October 2026
+KGZ,1998,inflation,10.457383,"% change, period average",IMF WEO October 2026
+KGZ,1999,inflation,35.90088,"% change, period average",IMF WEO October 2026
+KGZ,2000,inflation,19.687757,"% change, period average",IMF WEO October 2026
+KGZ,2001,inflation,6.91968,"% change, period average",IMF WEO October 2026
+KGZ,2002,inflation,2.13421,"% change, period average",IMF WEO October 2026
+KGZ,2003,inflation,2.974622,"% change, period average",IMF WEO October 2026
+KGZ,2004,inflation,4.11065,"% change, period average",IMF WEO October 2026
+KGZ,2005,inflation,4.338674,"% change, period average",IMF WEO October 2026
+KGZ,2006,inflation,5.552123,"% change, period average",IMF WEO October 2026
+KGZ,2007,inflation,10.230103,"% change, period average",IMF WEO October 2026
+KGZ,2008,inflation,24.520102,"% change, period average",IMF WEO October 2026
+KGZ,2009,inflation,6.836562,"% change, period average",IMF WEO October 2026
+KGZ,2010,inflation,7.967722,"% change, period average",IMF WEO October 2026
+KGZ,2011,inflation,16.636326,"% change, period average",IMF WEO October 2026
+KGZ,2012,inflation,2.768442,"% change, period average",IMF WEO October 2026
+KGZ,2013,inflation,6.613752,"% change, period average",IMF WEO October 2026
+KGZ,2014,inflation,7.534247,"% change, period average",IMF WEO October 2026
+KGZ,2015,inflation,6.503318,"% change, period average",IMF WEO October 2026
+KGZ,2016,inflation,0.388838,"% change, period average",IMF WEO October 2026
+KGZ,2017,inflation,3.17531,"% change, period average",IMF WEO October 2026
+KGZ,2018,inflation,1.542661,"% change, period average",IMF WEO October 2026
+KGZ,2019,inflation,1.136351,"% change, period average",IMF WEO October 2026
+KGZ,2020,inflation,6.322554,"% change, period average",IMF WEO October 2026
+KGZ,2021,inflation,11.908426,"% change, period average",IMF WEO October 2026
+KGZ,2022,inflation,13.909974,"% change, period average",IMF WEO October 2026
+KGZ,2023,inflation,10.796707,"% change, period average",IMF WEO October 2026
+KGZ,2024,inflation,5.020509,"% change, period average",IMF WEO October 2026
+KGZ,2025,inflation,8.21496,"% change, period average",IMF WEO October 2026
+KGZ,2026,inflation,12.66172,"% change, period average",IMF WEO October 2026
+KGZ,2027,inflation,14.302286,"% change, period average",IMF WEO October 2026
+KGZ,2028,inflation,11.858135,"% change, period average",IMF WEO October 2026
+KGZ,2029,inflation,9.870803,"% change, period average",IMF WEO October 2026
+KGZ,2030,inflation,7.892183,"% change, period average",IMF WEO October 2026
+KGZ,2031,inflation,6.771708,"% change, period average",IMF WEO October 2026
+UZB,1992,current_account,-4.767418,% of GDP,IMF WEO October 2026
+UZB,1993,current_account,-5.731567,% of GDP,IMF WEO October 2026
+UZB,1994,current_account,1.321806,% of GDP,IMF WEO October 2026
+UZB,1995,current_account,-0.141293,% of GDP,IMF WEO October 2026
+UZB,1996,current_account,-5.05629,% of GDP,IMF WEO October 2026
+UZB,1997,current_account,-2.852813,% of GDP,IMF WEO October 2026
+UZB,1998,current_account,-0.488334,% of GDP,IMF WEO October 2026
+UZB,1999,current_account,-0.685807,% of GDP,IMF WEO October 2026
+UZB,2000,current_account,2.86187,% of GDP,IMF WEO October 2026
+UZB,2001,current_account,1.142737,% of GDP,IMF WEO October 2026
+UZB,2002,current_account,2.056879,% of GDP,IMF WEO October 2026
+UZB,2003,current_account,4.553864,% of GDP,IMF WEO October 2026
+UZB,2004,current_account,5.144928,% of GDP,IMF WEO October 2026
+UZB,2005,current_account,5.754059,% of GDP,IMF WEO October 2026
+UZB,2006,current_account,7.296321,% of GDP,IMF WEO October 2026
+UZB,2007,current_account,5.820229,% of GDP,IMF WEO October 2026
+UZB,2008,current_account,7.993596,% of GDP,IMF WEO October 2026
+UZB,2009,current_account,3.778031,% of GDP,IMF WEO October 2026
+UZB,2010,current_account,4.102257,% of GDP,IMF WEO October 2026
+UZB,2011,current_account,4.126891,% of GDP,IMF WEO October 2026
+UZB,2012,current_account,1.605488,% of GDP,IMF WEO October 2026
+UZB,2013,current_account,1.59124,% of GDP,IMF WEO October 2026
+UZB,2014,current_account,2.273567,% of GDP,IMF WEO October 2026
+UZB,2015,current_account,0.923723,% of GDP,IMF WEO October 2026
+UZB,2016,current_account,0.219096,% of GDP,IMF WEO October 2026
+UZB,2017,current_account,2.120252,% of GDP,IMF WEO October 2026
+UZB,2018,current_account,-5.859868,% of GDP,IMF WEO October 2026
+UZB,2019,current_account,-4.804323,% of GDP,IMF WEO October 2026
+UZB,2020,current_account,-4.317709,% of GDP,IMF WEO October 2026
+UZB,2021,current_account,-6.033668,% of GDP,IMF WEO October 2026
+UZB,2022,current_account,-3.0177,% of GDP,IMF WEO October 2026
+UZB,2023,current_account,-7.251891,% of GDP,IMF WEO October 2026
+UZB,2024,current_account,-4.716128,% of GDP,IMF WEO October 2026
+UZB,2025,current_account,-3.932983,% of GDP,IMF WEO October 2026
+UZB,2026,current_account,-5.122403,% of GDP,IMF WEO October 2026
+UZB,2027,current_account,-4.594124,% of GDP,IMF WEO October 2026
+UZB,2028,current_account,-4.681697,% of GDP,IMF WEO October 2026
+UZB,2029,current_account,-4.702606,% of GDP,IMF WEO October 2026
+UZB,2030,current_account,-4.727338,% of GDP,IMF WEO October 2026
+UZB,2031,current_account,-4.803506,% of GDP,IMF WEO October 2026
+UZB,1997,government_debt,13.807193,% of GDP,IMF WEO October 2026
+UZB,1998,government_debt,16.209061,% of GDP,IMF WEO October 2026
+UZB,1999,government_debt,16.552697,% of GDP,IMF WEO October 2026
+UZB,2000,government_debt,26.544426,% of GDP,IMF WEO October 2026
+UZB,2001,government_debt,40.375244,% of GDP,IMF WEO October 2026
+UZB,2002,government_debt,37.48876,% of GDP,IMF WEO October 2026
+UZB,2003,government_debt,28.285564,% of GDP,IMF WEO October 2026
+UZB,2004,government_debt,24.20179,% of GDP,IMF WEO October 2026
+UZB,2005,government_debt,18.920019,% of GDP,IMF WEO October 2026
+UZB,2006,government_debt,12.19089,% of GDP,IMF WEO October 2026
+UZB,2007,government_debt,8.604193,% of GDP,IMF WEO October 2026
+UZB,2008,government_debt,7.503697,% of GDP,IMF WEO October 2026
+UZB,2009,government_debt,6.574252,% of GDP,IMF WEO October 2026
+UZB,2010,government_debt,5.921898,% of GDP,IMF WEO October 2026
+UZB,2011,government_debt,5.652302,% of GDP,IMF WEO October 2026
+UZB,2012,government_debt,6.056723,% of GDP,IMF WEO October 2026
+UZB,2013,government_debt,5.512803,% of GDP,IMF WEO October 2026
+UZB,2014,government_debt,5.390079,% of GDP,IMF WEO October 2026
+UZB,2015,government_debt,5.938302,% of GDP,IMF WEO October 2026
+UZB,2016,government_debt,7.208124,% of GDP,IMF WEO October 2026
+UZB,2017,government_debt,17.263537,% of GDP,IMF WEO October 2026
+UZB,2018,government_debt,16.708889,% of GDP,IMF WEO October 2026
+UZB,2019,government_debt,24.334927,% of GDP,IMF WEO October 2026
+UZB,2020,government_debt,31.90373,% of GDP,IMF WEO October 2026
+UZB,2021,government_debt,30.22835,% of GDP,IMF WEO October 2026
+UZB,2022,government_debt,29.171847,% of GDP,IMF WEO October 2026
+UZB,2023,government_debt,30.719489,% of GDP,IMF WEO October 2026
+UZB,2024,government_debt,30.935714,% of GDP,IMF WEO October 2026
+UZB,2025,government_debt,28.585044,% of GDP,IMF WEO October 2026
+UZB,2026,government_debt,27.574132,% of GDP,IMF WEO October 2026
+UZB,2027,government_debt,26.429809,% of GDP,IMF WEO October 2026
+UZB,2028,government_debt,25.600975,% of GDP,IMF WEO October 2026
+UZB,2029,government_debt,25.042918,% of GDP,IMF WEO October 2026
+UZB,2030,government_debt,25.044103,% of GDP,IMF WEO October 2026
+UZB,2031,government_debt,25.045255,% of GDP,IMF WEO October 2026
+UZB,1992,gdp_usd,4971244000.0,US$,IMF WEO October 2026
+UZB,1993,gdp_usd,7659336000.0,US$,IMF WEO October 2026
+UZB,1994,gdp_usd,9078487000.0,US$,IMF WEO October 2026
+UZB,1995,gdp_usd,14154969000.0,US$,IMF WEO October 2026
+UZB,1996,gdp_usd,19381798000.0,US$,IMF WEO October 2026
+UZB,1997,gdp_usd,20470737000.0,US$,IMF WEO October 2026
+UZB,1998,gdp_usd,20809755000.0,US$,IMF WEO October 2026
+UZB,1999,gdp_usd,23723879000.0,US$,IMF WEO October 2026
+UZB,2000,gdp_usd,19096322000.0,US$,IMF WEO October 2026
+UZB,2001,gdp_usd,16192836000.0,US$,IMF WEO October 2026
+UZB,2002,gdp_usd,13443898000.0,US$,IMF WEO October 2026
+UZB,2003,gdp_usd,14100432000.0,US$,IMF WEO October 2026
+UZB,2004,gdp_usd,16707589000.0,US$,IMF WEO October 2026
+UZB,2005,gdp_usd,19921859000.0,US$,IMF WEO October 2026
+UZB,2006,gdp_usd,23703137000.0,US$,IMF WEO October 2026
+UZB,2007,gdp_usd,31053809000.0,US$,IMF WEO October 2026
+UZB,2008,gdp_usd,39822088000.0,US$,IMF WEO October 2026
+UZB,2009,gdp_usd,46581562000.0,US$,IMF WEO October 2026
+UZB,2010,gdp_usd,55551408000.0,US$,IMF WEO October 2026
+UZB,2011,gdp_usd,67443163000.0,US$,IMF WEO October 2026
+UZB,2012,gdp_usd,75321870000.0,US$,IMF WEO October 2026
+UZB,2013,gdp_usd,82687570000.0,US$,IMF WEO October 2026
+UZB,2014,gdp_usd,91306853000.0,US$,IMF WEO October 2026
+UZB,2015,gdp_usd,96959971000.0,US$,IMF WEO October 2026
+UZB,2016,gdp_usd,97325350000.0,US$,IMF WEO October 2026
+UZB,2017,gdp_usd,69703222000.0,US$,IMF WEO October 2026
+UZB,2018,gdp_usd,61318345000.0,US$,IMF WEO October 2026
+UZB,2019,gdp_usd,70170646000.0,US$,IMF WEO October 2026
+UZB,2020,gdp_usd,70127121000.0,US$,IMF WEO October 2026
+UZB,2021,gdp_usd,81170045000.0,US$,IMF WEO October 2026
+UZB,2022,gdp_usd,94316528000.0,US$,IMF WEO October 2026
+UZB,2023,gdp_usd,107518142000.0,US$,IMF WEO October 2026
+UZB,2024,gdp_usd,121352102000.0,US$,IMF WEO October 2026
+UZB,2025,gdp_usd,147069036000.0,US$,IMF WEO October 2026
+UZB,2026,gdp_usd,178166941000.0,US$,IMF WEO October 2026
+UZB,2027,gdp_usd,202648351000.0,US$,IMF WEO October 2026
+UZB,2028,gdp_usd,226467830000.0,US$,IMF WEO October 2026
+UZB,2029,gdp_usd,250508123000.0,US$,IMF WEO October 2026
+UZB,2030,gdp_usd,276231483000.0,US$,IMF WEO October 2026
+UZB,2031,gdp_usd,304124391000.0,US$,IMF WEO October 2026
+UZB,1992,gdp_growth,-11.1,% change,IMF WEO October 2026
+UZB,1993,gdp_growth,-2.3,% change,IMF WEO October 2026
+UZB,1994,gdp_growth,-5.2,% change,IMF WEO October 2026
+UZB,1995,gdp_growth,-0.9,% change,IMF WEO October 2026
+UZB,1996,gdp_growth,1.7,% change,IMF WEO October 2026
+UZB,1997,gdp_growth,5.2,% change,IMF WEO October 2026
+UZB,1998,gdp_growth,4.3,% change,IMF WEO October 2026
+UZB,1999,gdp_growth,4.3,% change,IMF WEO October 2026
+UZB,2000,gdp_growth,3.8,% change,IMF WEO October 2026
+UZB,2001,gdp_growth,4.2,% change,IMF WEO October 2026
+UZB,2002,gdp_growth,4.0,% change,IMF WEO October 2026
+UZB,2003,gdp_growth,4.2,% change,IMF WEO October 2026
+UZB,2004,gdp_growth,7.4,% change,IMF WEO October 2026
+UZB,2005,gdp_growth,7.0,% change,IMF WEO October 2026
+UZB,2006,gdp_growth,7.5,% change,IMF WEO October 2026
+UZB,2007,gdp_growth,9.5,% change,IMF WEO October 2026
+UZB,2008,gdp_growth,9.0,% change,IMF WEO October 2026
+UZB,2009,gdp_growth,8.1,% change,IMF WEO October 2026
+UZB,2010,gdp_growth,7.65297,% change,IMF WEO October 2026
+UZB,2011,gdp_growth,8.127937,% change,IMF WEO October 2026
+UZB,2012,gdp_growth,7.356821,% change,IMF WEO October 2026
+UZB,2013,gdp_growth,7.921775,% change,IMF WEO October 2026
+UZB,2014,gdp_growth,7.713739,% change,IMF WEO October 2026
+UZB,2015,gdp_growth,7.944777,% change,IMF WEO October 2026
+UZB,2016,gdp_growth,6.71108,% change,IMF WEO October 2026
+UZB,2017,gdp_growth,4.700274,% change,IMF WEO October 2026
+UZB,2018,gdp_growth,5.723684,% change,IMF WEO October 2026
+UZB,2019,gdp_growth,6.793311,% change,IMF WEO October 2026
+UZB,2020,gdp_growth,1.621623,% change,IMF WEO October 2026
+UZB,2021,gdp_growth,8.204485,% change,IMF WEO October 2026
+UZB,2022,gdp_growth,6.085923,% change,IMF WEO October 2026
+UZB,2023,gdp_growth,6.31603,% change,IMF WEO October 2026
+UZB,2024,gdp_growth,6.676188,% change,IMF WEO October 2026
+UZB,2025,gdp_growth,7.699625,% change,IMF WEO October 2026
+UZB,2026,gdp_growth,7.817112,% change,IMF WEO October 2026
+UZB,2027,gdp_growth,6.52623,% change,IMF WEO October 2026
+UZB,2028,gdp_growth,6.00661,% change,IMF WEO October 2026
+UZB,2029,gdp_growth,5.823893,% change,IMF WEO October 2026
+UZB,2030,gdp_growth,5.711247,% change,IMF WEO October 2026
+UZB,2031,gdp_growth,5.699636,% change,IMF WEO October 2026
+UZB,1992,inflation,645.146446,"% change, period average",IMF WEO October 2026
+UZB,1993,inflation,534.179624,"% change, period average",IMF WEO October 2026
+UZB,1994,inflation,1568.33288,"% change, period average",IMF WEO October 2026
+UZB,1995,inflation,304.596636,"% change, period average",IMF WEO October 2026
+UZB,1996,inflation,53.960717,"% change, period average",IMF WEO October 2026
+UZB,1997,inflation,70.856547,"% change, period average",IMF WEO October 2026
+UZB,1998,inflation,28.981343,"% change, period average",IMF WEO October 2026
+UZB,1999,inflation,29.102506,"% change, period average",IMF WEO October 2026
+UZB,2000,inflation,25.006392,"% change, period average",IMF WEO October 2026
+UZB,2001,inflation,27.250912,"% change, period average",IMF WEO October 2026
+UZB,2002,inflation,27.290601,"% change, period average",IMF WEO October 2026
+UZB,2003,inflation,12.494346,"% change, period average",IMF WEO October 2026
+UZB,2004,inflation,7.325315,"% change, period average",IMF WEO October 2026
+UZB,2005,inflation,10.703266,"% change, period average",IMF WEO October 2026
+UZB,2006,inflation,13.10918,"% change, period average",IMF WEO October 2026
+UZB,2007,inflation,11.154194,"% change, period average",IMF WEO October 2026
+UZB,2008,inflation,13.127753,"% change, period average",IMF WEO October 2026
+UZB,2009,inflation,12.298173,"% change, period average",IMF WEO October 2026
+UZB,2010,inflation,12.303884,"% change, period average",IMF WEO October 2026
+UZB,2011,inflation,12.447064,"% change, period average",IMF WEO October 2026
+UZB,2012,inflation,11.900184,"% change, period average",IMF WEO October 2026
+UZB,2013,inflation,11.699878,"% change, period average",IMF WEO October 2026
+UZB,2014,inflation,9.079066,"% change, period average",IMF WEO October 2026
+UZB,2015,inflation,8.464479,"% change, period average",IMF WEO October 2026
+UZB,2016,inflation,8.823513,"% change, period average",IMF WEO October 2026
+UZB,2017,inflation,13.875743,"% change, period average",IMF WEO October 2026
+UZB,2018,inflation,17.52418,"% change, period average",IMF WEO October 2026
+UZB,2019,inflation,14.525736,"% change, period average",IMF WEO October 2026
+UZB,2020,inflation,12.86773,"% change, period average",IMF WEO October 2026
+UZB,2021,inflation,10.84924,"% change, period average",IMF WEO October 2026
+UZB,2022,inflation,11.446644,"% change, period average",IMF WEO October 2026
+UZB,2023,inflation,9.95659,"% change, period average",IMF WEO October 2026
+UZB,2024,inflation,9.625642,"% change, period average",IMF WEO October 2026
+UZB,2025,inflation,8.796544,"% change, period average",IMF WEO October 2026
+UZB,2026,inflation,6.857988,"% change, period average",IMF WEO October 2026
+UZB,2027,inflation,5.720375,"% change, period average",IMF WEO October 2026
+UZB,2028,inflation,5.015727,"% change, period average",IMF WEO October 2026
+UZB,2029,inflation,5.005181,"% change, period average",IMF WEO October 2026
+UZB,2030,inflation,5.015932,"% change, period average",IMF WEO October 2026
+UZB,2031,inflation,5.0,"% change, period average",IMF WEO October 2026
+KAZ,1992,current_account,-51.659721,% of GDP,IMF WEO October 2026
+KAZ,1993,current_account,-8.636585,% of GDP,IMF WEO October 2026
+KAZ,1994,current_account,-7.662874,% of GDP,IMF WEO October 2026
+KAZ,1995,current_account,-1.280688,% of GDP,IMF WEO October 2026
+KAZ,1996,current_account,-3.570219,% of GDP,IMF WEO October 2026
+KAZ,1997,current_account,-3.605986,% of GDP,IMF WEO October 2026
+KAZ,1998,current_account,-5.533715,% of GDP,IMF WEO October 2026
+KAZ,1999,current_account,-1.013603,% of GDP,IMF WEO October 2026
+KAZ,2000,current_account,2.002567,% of GDP,IMF WEO October 2026
+KAZ,2001,current_account,-6.272451,% of GDP,IMF WEO October 2026
+KAZ,2002,current_account,-4.157803,% of GDP,IMF WEO October 2026
+KAZ,2003,current_account,-0.884199,% of GDP,IMF WEO October 2026
+KAZ,2004,current_account,0.777323,% of GDP,IMF WEO October 2026
+KAZ,2005,current_account,0.628099,% of GDP,IMF WEO October 2026
+KAZ,2006,current_account,-1.016006,% of GDP,IMF WEO October 2026
+KAZ,2007,current_account,-4.54688,% of GDP,IMF WEO October 2026
+KAZ,2008,current_account,0.964616,% of GDP,IMF WEO October 2026
+KAZ,2009,current_account,-0.116557,% of GDP,IMF WEO October 2026
+KAZ,2010,current_account,1.808611,% of GDP,IMF WEO October 2026
+KAZ,2011,current_account,7.302994,% of GDP,IMF WEO October 2026
+KAZ,2012,current_account,1.263711,% of GDP,IMF WEO October 2026
+KAZ,2013,current_account,1.913203,% of GDP,IMF WEO October 2026
+KAZ,2014,current_account,-1.288437,% of GDP,IMF WEO October 2026
+KAZ,2015,current_account,-5.412162,% of GDP,IMF WEO October 2026
+KAZ,2016,current_account,-5.073343,% of GDP,IMF WEO October 2026
+KAZ,2017,current_account,-2.054124,% of GDP,IMF WEO October 2026
+KAZ,2018,current_account,-0.984499,% of GDP,IMF WEO October 2026
+KAZ,2019,current_account,-3.868725,% of GDP,IMF WEO October 2026
+KAZ,2020,current_account,-6.461683,% of GDP,IMF WEO October 2026
+KAZ,2021,current_account,-1.359327,% of GDP,IMF WEO October 2026
+KAZ,2022,current_account,2.854326,% of GDP,IMF WEO October 2026
+KAZ,2023,current_account,-3.163877,% of GDP,IMF WEO October 2026
+KAZ,2024,current_account,-2.320534,% of GDP,IMF WEO October 2026
+KAZ,2025,current_account,-4.068948,% of GDP,IMF WEO October 2026
+KAZ,2026,current_account,0.545133,% of GDP,IMF WEO October 2026
+KAZ,2027,current_account,-0.665572,% of GDP,IMF WEO October 2026
+KAZ,2028,current_account,-2.50184,% of GDP,IMF WEO October 2026
+KAZ,2029,current_account,-2.620167,% of GDP,IMF WEO October 2026
+KAZ,2030,current_account,-2.900772,% of GDP,IMF WEO October 2026
+KAZ,2031,current_account,-2.898312,% of GDP,IMF WEO October 2026
+KAZ,2002,government_debt,17.59187,% of GDP,IMF WEO October 2026
+KAZ,2003,government_debt,14.962494,% of GDP,IMF WEO October 2026
+KAZ,2004,government_debt,11.391569,% of GDP,IMF WEO October 2026
+KAZ,2005,government_debt,8.104407,% of GDP,IMF WEO October 2026
+KAZ,2006,government_debt,6.676952,% of GDP,IMF WEO October 2026
+KAZ,2007,government_debt,4.091989,% of GDP,IMF WEO October 2026
+KAZ,2008,government_debt,6.76587,% of GDP,IMF WEO October 2026
+KAZ,2009,government_debt,10.227029,% of GDP,IMF WEO October 2026
+KAZ,2010,government_debt,10.682735,% of GDP,IMF WEO October 2026
+KAZ,2011,government_debt,10.161007,% of GDP,IMF WEO October 2026
+KAZ,2012,government_debt,12.125267,% of GDP,IMF WEO October 2026
+KAZ,2013,government_debt,12.602508,% of GDP,IMF WEO October 2026
+KAZ,2014,government_debt,14.496344,% of GDP,IMF WEO October 2026
+KAZ,2015,government_debt,21.881937,% of GDP,IMF WEO October 2026
+KAZ,2016,government_debt,19.677354,% of GDP,IMF WEO October 2026
+KAZ,2017,government_debt,19.869432,% of GDP,IMF WEO October 2026
+KAZ,2018,government_debt,20.25854,% of GDP,IMF WEO October 2026
+KAZ,2019,government_debt,19.943728,% of GDP,IMF WEO October 2026
+KAZ,2020,government_debt,26.357133,% of GDP,IMF WEO October 2026
+KAZ,2021,government_debt,25.100451,% of GDP,IMF WEO October 2026
+KAZ,2022,government_debt,23.524056,% of GDP,IMF WEO October 2026
+KAZ,2023,government_debt,22.981963,% of GDP,IMF WEO October 2026
+KAZ,2024,government_debt,24.376956,% of GDP,IMF WEO October 2026
+KAZ,2025,government_debt,24.273849,% of GDP,IMF WEO October 2026
+KAZ,2026,government_debt,23.815626,% of GDP,IMF WEO October 2026
+KAZ,2027,government_debt,25.140115,% of GDP,IMF WEO October 2026
+KAZ,2028,government_debt,26.902825,% of GDP,IMF WEO October 2026
+KAZ,2029,government_debt,28.315262,% of GDP,IMF WEO October 2026
+KAZ,2030,government_debt,29.014611,% of GDP,IMF WEO October 2026
+KAZ,2031,government_debt,29.750875,% of GDP,IMF WEO October 2026
+KAZ,1992,gdp_usd,2875117000.0,US$,IMF WEO October 2026
+KAZ,1993,gdp_usd,5151960000.0,US$,IMF WEO October 2026
+KAZ,1994,gdp_usd,11881302000.0,US$,IMF WEO October 2026
+KAZ,1995,gdp_usd,16639493000.0,US$,IMF WEO October 2026
+KAZ,1996,gdp_usd,21035121000.0,US$,IMF WEO October 2026
+KAZ,1997,gdp_usd,22165919000.0,US$,IMF WEO October 2026
+KAZ,1998,gdp_usd,22135221000.0,US$,IMF WEO October 2026
+KAZ,1999,gdp_usd,16870511000.0,US$,IMF WEO October 2026
+KAZ,2000,gdp_usd,18291996000.0,US$,IMF WEO October 2026
+KAZ,2001,gdp_usd,22152687000.0,US$,IMF WEO October 2026
+KAZ,2002,gdp_usd,24636597000.0,US$,IMF WEO October 2026
+KAZ,2003,gdp_usd,30833691000.0,US$,IMF WEO October 2026
+KAZ,2004,gdp_usd,43151645000.0,US$,IMF WEO October 2026
+KAZ,2005,gdp_usd,57124750000.0,US$,IMF WEO October 2026
+KAZ,2006,gdp_usd,81003498000.0,US$,IMF WEO October 2026
+KAZ,2007,gdp_usd,104849915000.0,US$,IMF WEO October 2026
+KAZ,2008,gdp_usd,133441648000.0,US$,IMF WEO October 2026
+KAZ,2009,gdp_usd,115308687000.0,US$,IMF WEO October 2026
+KAZ,2010,gdp_usd,148047348000.0,US$,IMF WEO October 2026
+KAZ,2011,gdp_usd,192626466000.0,US$,IMF WEO October 2026
+KAZ,2012,gdp_usd,207998572000.0,US$,IMF WEO October 2026
+KAZ,2013,gdp_usd,236634603000.0,US$,IMF WEO October 2026
+KAZ,2014,gdp_usd,221415615000.0,US$,IMF WEO October 2026
+KAZ,2015,gdp_usd,184388406000.0,US$,IMF WEO October 2026
+KAZ,2016,gdp_usd,137278320000.0,US$,IMF WEO October 2026
+KAZ,2017,gdp_usd,166805886000.0,US$,IMF WEO October 2026
+KAZ,2018,gdp_usd,179339976000.0,US$,IMF WEO October 2026
+KAZ,2019,gdp_usd,181667096000.0,US$,IMF WEO October 2026
+KAZ,2020,gdp_usd,171082365000.0,US$,IMF WEO October 2026
+KAZ,2021,gdp_usd,197112256000.0,US$,IMF WEO October 2026
+KAZ,2022,gdp_usd,225496328000.0,US$,IMF WEO October 2026
+KAZ,2023,gdp_usd,261840102000.0,US$,IMF WEO October 2026
+KAZ,2024,gdp_usd,291480274000.0,US$,IMF WEO October 2026
+KAZ,2025,gdp_usd,305997993000.0,US$,IMF WEO October 2026
+KAZ,2026,gdp_usd,397920981000.0,US$,IMF WEO October 2026
+KAZ,2027,gdp_usd,433399547000.0,US$,IMF WEO October 2026
+KAZ,2028,gdp_usd,455701051000.0,US$,IMF WEO October 2026
+KAZ,2029,gdp_usd,484001774000.0,US$,IMF WEO October 2026
+KAZ,2030,gdp_usd,518246606000.0,US$,IMF WEO October 2026
+KAZ,2031,gdp_usd,553358887000.0,US$,IMF WEO October 2026
+KAZ,1993,gdp_growth,-9.2,% change,IMF WEO October 2026
+KAZ,1994,gdp_growth,-12.57976,% change,IMF WEO October 2026
+KAZ,1995,gdp_growth,-8.2,% change,IMF WEO October 2026
+KAZ,1996,gdp_growth,0.5,% change,IMF WEO October 2026
+KAZ,1997,gdp_growth,1.7,% change,IMF WEO October 2026
+KAZ,1998,gdp_growth,-1.9,% change,IMF WEO October 2026
+KAZ,1999,gdp_growth,2.7,% change,IMF WEO October 2026
+KAZ,2000,gdp_growth,9.800298,% change,IMF WEO October 2026
+KAZ,2001,gdp_growth,13.499461,% change,IMF WEO October 2026
+KAZ,2002,gdp_growth,9.799076,% change,IMF WEO October 2026
+KAZ,2003,gdp_growth,9.300232,% change,IMF WEO October 2026
+KAZ,2004,gdp_growth,9.598631,% change,IMF WEO October 2026
+KAZ,2005,gdp_growth,9.700176,% change,IMF WEO October 2026
+KAZ,2006,gdp_growth,10.701546,% change,IMF WEO October 2026
+KAZ,2007,gdp_growth,8.9,% change,IMF WEO October 2026
+KAZ,2008,gdp_growth,3.3,% change,IMF WEO October 2026
+KAZ,2009,gdp_growth,1.2,% change,IMF WEO October 2026
+KAZ,2010,gdp_growth,7.3,% change,IMF WEO October 2026
+KAZ,2011,gdp_growth,7.5,% change,IMF WEO October 2026
+KAZ,2012,gdp_growth,5.000001,% change,IMF WEO October 2026
+KAZ,2013,gdp_growth,5.9,% change,IMF WEO October 2026
+KAZ,2014,gdp_growth,4.3,% change,IMF WEO October 2026
+KAZ,2015,gdp_growth,0.999999,% change,IMF WEO October 2026
+KAZ,2016,gdp_growth,0.9,% change,IMF WEO October 2026
+KAZ,2017,gdp_growth,3.900001,% change,IMF WEO October 2026
+KAZ,2018,gdp_growth,4.099999,% change,IMF WEO October 2026
+KAZ,2019,gdp_growth,4.5,% change,IMF WEO October 2026
+KAZ,2020,gdp_growth,-2.6,% change,IMF WEO October 2026
+KAZ,2021,gdp_growth,4.100001,% change,IMF WEO October 2026
+KAZ,2022,gdp_growth,3.199999,% change,IMF WEO October 2026
+KAZ,2023,gdp_growth,5.1,% change,IMF WEO October 2026
+KAZ,2024,gdp_growth,5.0,% change,IMF WEO October 2026
+KAZ,2025,gdp_growth,6.500001,% change,IMF WEO October 2026
+KAZ,2026,gdp_growth,4.414725,% change,IMF WEO October 2026
+KAZ,2027,gdp_growth,4.882177,% change,IMF WEO October 2026
+KAZ,2028,gdp_growth,3.529889,% change,IMF WEO October 2026
+KAZ,2029,gdp_growth,3.776657,% change,IMF WEO October 2026
+KAZ,2030,gdp_growth,3.720713,% change,IMF WEO October 2026
+KAZ,2031,gdp_growth,3.603221,% change,IMF WEO October 2026
+KAZ,1993,inflation,1662.274815,"% change, period average",IMF WEO October 2026
+KAZ,1994,inflation,1401.986512,"% change, period average",IMF WEO October 2026
+KAZ,1995,inflation,176.37918,"% change, period average",IMF WEO October 2026
+KAZ,1996,inflation,39.1803,"% change, period average",IMF WEO October 2026
+KAZ,1997,inflation,17.401233,"% change, period average",IMF WEO October 2026
+KAZ,1998,inflation,7.132416,"% change, period average",IMF WEO October 2026
+KAZ,1999,inflation,8.322683,"% change, period average",IMF WEO October 2026
+KAZ,2000,inflation,13.153821,"% change, period average",IMF WEO October 2026
+KAZ,2001,inflation,8.372812,"% change, period average",IMF WEO October 2026
+KAZ,2002,inflation,5.959302,"% change, period average",IMF WEO October 2026
+KAZ,2003,inflation,6.378601,"% change, period average",IMF WEO October 2026
+KAZ,2004,inflation,6.995487,"% change, period average",IMF WEO October 2026
+KAZ,2005,inflation,7.411871,"% change, period average",IMF WEO October 2026
+KAZ,2006,inflation,8.611501,"% change, period average",IMF WEO October 2026
+KAZ,2007,inflation,10.795455,"% change, period average",IMF WEO October 2026
+KAZ,2008,inflation,17.156177,"% change, period average",IMF WEO October 2026
+KAZ,2009,inflation,7.302029,"% change, period average",IMF WEO October 2026
+KAZ,2010,inflation,7.101799,"% change, period average",IMF WEO October 2026
+KAZ,2011,inflation,8.379501,"% change, period average",IMF WEO October 2026
+KAZ,2012,inflation,5.127796,"% change, period average",IMF WEO October 2026
+KAZ,2013,inflation,5.819784,"% change, period average",IMF WEO October 2026
+KAZ,2014,inflation,6.57668,"% change, period average",IMF WEO October 2026
+KAZ,2015,inflation,6.750202,"% change, period average",IMF WEO October 2026
+KAZ,2016,inflation,14.56519,"% change, period average",IMF WEO October 2026
+KAZ,2017,inflation,7.458411,"% change, period average",IMF WEO October 2026
+KAZ,2018,inflation,6.007792,"% change, period average",IMF WEO October 2026
+KAZ,2019,inflation,5.280464,"% change, period average",IMF WEO October 2026
+KAZ,2020,inflation,6.760977,"% change, period average",IMF WEO October 2026
+KAZ,2021,inflation,8.002065,"% change, period average",IMF WEO October 2026
+KAZ,2022,inflation,14.98566,"% change, period average",IMF WEO October 2026
+KAZ,2023,inflation,14.522275,"% change, period average",IMF WEO October 2026
+KAZ,2024,inflation,8.675661,"% change, period average",IMF WEO October 2026
+KAZ,2025,inflation,11.378946,"% change, period average",IMF WEO October 2026
+KAZ,2026,inflation,10.316253,"% change, period average",IMF WEO October 2026
+KAZ,2027,inflation,8.151043,"% change, period average",IMF WEO October 2026
+KAZ,2028,inflation,7.105449,"% change, period average",IMF WEO October 2026
+KAZ,2029,inflation,5.818956,"% change, period average",IMF WEO October 2026
+KAZ,2030,inflation,5.142061,"% change, period average",IMF WEO October 2026
+KAZ,2031,inflation,4.999998,"% change, period average",IMF WEO October 2026
+RUS,1992,current_account,-1.675905,% of GDP,IMF WEO October 2026
+RUS,1993,current_account,1.324999,% of GDP,IMF WEO October 2026
+RUS,1994,current_account,3.043861,% of GDP,IMF WEO October 2026
+RUS,1995,current_account,2.215129,% of GDP,IMF WEO October 2026
+RUS,1996,current_account,2.448014,% of GDP,IMF WEO October 2026
+RUS,1997,current_account,-0.192597,% of GDP,IMF WEO October 2026
+RUS,1998,current_account,0.024716,% of GDP,IMF WEO October 2026
+RUS,1999,current_account,10.901326,% of GDP,IMF WEO October 2026
+RUS,2000,current_account,16.309129,% of GDP,IMF WEO October 2026
+RUS,2001,current_account,9.758358,% of GDP,IMF WEO October 2026
+RUS,2002,current_account,7.423911,% of GDP,IMF WEO October 2026
+RUS,2003,current_account,7.178066,% of GDP,IMF WEO October 2026
+RUS,2004,current_account,9.246857,% of GDP,IMF WEO October 2026
+RUS,2005,current_account,10.320039,% of GDP,IMF WEO October 2026
+RUS,2006,current_account,8.70161,% of GDP,IMF WEO October 2026
+RUS,2007,current_account,5.181017,% of GDP,IMF WEO October 2026
+RUS,2008,current_account,5.841992,% of GDP,IMF WEO October 2026
+RUS,2009,current_account,3.852173,% of GDP,IMF WEO October 2026
+RUS,2010,current_account,4.130289,% of GDP,IMF WEO October 2026
+RUS,2011,current_account,4.752908,% of GDP,IMF WEO October 2026
+RUS,2012,current_account,3.252688,% of GDP,IMF WEO October 2026
+RUS,2013,current_account,1.460749,% of GDP,IMF WEO October 2026
+RUS,2014,current_account,2.807094,% of GDP,IMF WEO October 2026
+RUS,2015,current_account,4.995734,% of GDP,IMF WEO October 2026
+RUS,2016,current_account,1.910658,% of GDP,IMF WEO October 2026
+RUS,2017,current_account,2.042905,% of GDP,IMF WEO October 2026
+RUS,2018,current_account,6.998164,% of GDP,IMF WEO October 2026
+RUS,2019,current_account,3.871514,% of GDP,IMF WEO October 2026
+RUS,2020,current_account,2.377003,% of GDP,IMF WEO October 2026
+RUS,2021,current_account,6.83204,% of GDP,IMF WEO October 2026
+RUS,2022,current_account,10.352453,% of GDP,IMF WEO October 2026
+RUS,2023,current_account,2.427727,% of GDP,IMF WEO October 2026
+RUS,2024,current_account,2.893999,% of GDP,IMF WEO October 2026
+RUS,2025,current_account,1.508575,% of GDP,IMF WEO October 2026
+RUS,2026,current_account,3.773454,% of GDP,IMF WEO October 2026
+RUS,2027,current_account,3.153638,% of GDP,IMF WEO October 2026
+RUS,2028,current_account,2.484704,% of GDP,IMF WEO October 2026
+RUS,2029,current_account,1.896703,% of GDP,IMF WEO October 2026
+RUS,2030,current_account,1.388679,% of GDP,IMF WEO October 2026
+RUS,2031,current_account,0.966974,% of GDP,IMF WEO October 2026
+RUS,1997,government_debt,51.519387,% of GDP,IMF WEO October 2026
+RUS,1998,government_debt,135.193302,% of GDP,IMF WEO October 2026
+RUS,1999,government_debt,92.379379,% of GDP,IMF WEO October 2026
+RUS,2000,government_debt,55.868371,% of GDP,IMF WEO October 2026
+RUS,2001,government_debt,44.438155,% of GDP,IMF WEO October 2026
+RUS,2002,government_debt,37.577188,% of GDP,IMF WEO October 2026
+RUS,2003,government_debt,28.334198,% of GDP,IMF WEO October 2026
+RUS,2004,government_debt,20.827898,% of GDP,IMF WEO October 2026
+RUS,2005,government_debt,14.85063,% of GDP,IMF WEO October 2026
+RUS,2006,government_debt,9.803901,% of GDP,IMF WEO October 2026
+RUS,2007,government_debt,8.032696,% of GDP,IMF WEO October 2026
+RUS,2008,government_debt,7.446245,% of GDP,IMF WEO October 2026
+RUS,2009,government_debt,9.918192,% of GDP,IMF WEO October 2026
+RUS,2010,government_debt,10.105264,% of GDP,IMF WEO October 2026
+RUS,2011,government_debt,10.340154,% of GDP,IMF WEO October 2026
+RUS,2012,government_debt,11.167431,% of GDP,IMF WEO October 2026
+RUS,2013,government_debt,12.348062,% of GDP,IMF WEO October 2026
+RUS,2014,government_debt,15.135824,% of GDP,IMF WEO October 2026
+RUS,2015,government_debt,15.28642,% of GDP,IMF WEO October 2026
+RUS,2016,government_debt,14.849323,% of GDP,IMF WEO October 2026
+RUS,2017,government_debt,14.311072,% of GDP,IMF WEO October 2026
+RUS,2018,government_debt,13.619616,% of GDP,IMF WEO October 2026
+RUS,2019,government_debt,13.747518,% of GDP,IMF WEO October 2026
+RUS,2020,government_debt,19.162487,% of GDP,IMF WEO October 2026
+RUS,2021,government_debt,16.529283,% of GDP,IMF WEO October 2026
+RUS,2022,government_debt,15.134146,% of GDP,IMF WEO October 2026
+RUS,2023,government_debt,15.18982,% of GDP,IMF WEO October 2026
+RUS,2024,government_debt,14.758121,% of GDP,IMF WEO October 2026
+RUS,2025,government_debt,16.58712,% of GDP,IMF WEO October 2026
+RUS,2026,government_debt,19.308909,% of GDP,IMF WEO October 2026
+RUS,2027,government_debt,22.190191,% of GDP,IMF WEO October 2026
+RUS,2028,government_debt,24.805836,% of GDP,IMF WEO October 2026
+RUS,2029,government_debt,27.164366,% of GDP,IMF WEO October 2026
+RUS,2030,government_debt,29.143757,% of GDP,IMF WEO October 2026
+RUS,2031,government_debt,30.706963,% of GDP,IMF WEO October 2026
+RUS,1992,gdp_usd,71603087000.0,US$,IMF WEO October 2026
+RUS,1993,gdp_usd,196226611000.0,US$,IMF WEO October 2026
+RUS,1994,gdp_usd,293768383000.0,US$,IMF WEO October 2026
+RUS,1995,gdp_usd,335777223000.0,US$,IMF WEO October 2026
+RUS,1996,gdp_usd,412685473000.0,US$,IMF WEO October 2026
+RUS,1997,gdp_usd,433703548000.0,US$,IMF WEO October 2026
+RUS,1998,gdp_usd,287671761000.0,US$,IMF WEO October 2026
+RUS,1999,gdp_usd,209657056000.0,US$,IMF WEO October 2026
+RUS,2000,gdp_usd,278263780000.0,US$,IMF WEO October 2026
+RUS,2001,gdp_usd,328475355000.0,US$,IMF WEO October 2026
+RUS,2002,gdp_usd,370062338000.0,US$,IMF WEO October 2026
+RUS,2003,gdp_usd,461518452000.0,US$,IMF WEO October 2026
+RUS,2004,gdp_usd,633294112000.0,US$,IMF WEO October 2026
+RUS,2005,gdp_usd,817716900000.0,US$,IMF WEO October 2026
+RUS,2006,gdp_usd,1060901349000.0,US$,IMF WEO October 2026
+RUS,2007,gdp_usd,1393415741000.0,US$,IMF WEO October 2026
+RUS,2008,gdp_usd,1779108799000.0,US$,IMF WEO October 2026
+RUS,2009,gdp_usd,1307926595000.0,US$,IMF WEO October 2026
+RUS,2010,gdp_usd,1633110969000.0,US$,IMF WEO October 2026
+RUS,2011,gdp_usd,2046620902000.0,US$,IMF WEO October 2026
+RUS,2012,gdp_usd,2191485883000.0,US$,IMF WEO October 2026
+RUS,2013,gdp_usd,2288428379000.0,US$,IMF WEO October 2026
+RUS,2014,gdp_usd,2048837355000.0,US$,IMF WEO October 2026
+RUS,2015,gdp_usd,1356703419000.0,US$,IMF WEO October 2026
+RUS,2016,gdp_usd,1280647793000.0,US$,IMF WEO October 2026
+RUS,2017,gdp_usd,1575139674000.0,US$,IMF WEO October 2026
+RUS,2018,gdp_usd,1653005101000.0,US$,IMF WEO October 2026
+RUS,2019,gdp_usd,1695724216000.0,US$,IMF WEO October 2026
+RUS,2020,gdp_usd,1488117698000.0,US$,IMF WEO October 2026
+RUS,2021,gdp_usd,1828926723000.0,US$,IMF WEO October 2026
+RUS,2022,gdp_usd,2296410367000.0,US$,IMF WEO October 2026
+RUS,2023,gdp_usd,2034681097000.0,US$,IMF WEO October 2026
+RUS,2024,gdp_usd,2185847663000.0,US$,IMF WEO October 2026
+RUS,2025,gdp_usd,2572315016000.0,US$,IMF WEO October 2026
+RUS,2026,gdp_usd,2861155843000.0,US$,IMF WEO October 2026
+RUS,2027,gdp_usd,2675035378000.0,US$,IMF WEO October 2026
+RUS,2028,gdp_usd,2638379432000.0,US$,IMF WEO October 2026
+RUS,2029,gdp_usd,2620753027000.0,US$,IMF WEO October 2026
+RUS,2030,gdp_usd,2626296840000.0,US$,IMF WEO October 2026
+RUS,2031,gdp_usd,2641453369000.0,US$,IMF WEO October 2026
+RUS,1993,gdp_growth,-8.7,% change,IMF WEO October 2026
+RUS,1994,gdp_growth,-12.7,% change,IMF WEO October 2026
+RUS,1995,gdp_growth,-4.1,% change,IMF WEO October 2026
+RUS,1996,gdp_growth,-3.581283,% change,IMF WEO October 2026
+RUS,1997,gdp_growth,1.375875,% change,IMF WEO October 2026
+RUS,1998,gdp_growth,-5.318939,% change,IMF WEO October 2026
+RUS,1999,gdp_growth,6.347496,% change,IMF WEO October 2026
+RUS,2000,gdp_growth,10.054447,% change,IMF WEO October 2026
+RUS,2001,gdp_growth,5.081667,% change,IMF WEO October 2026
+RUS,2002,gdp_growth,4.746165,% change,IMF WEO October 2026
+RUS,2003,gdp_growth,7.355725,% change,IMF WEO October 2026
+RUS,2004,gdp_growth,7.145445,% change,IMF WEO October 2026
+RUS,2005,gdp_growth,6.396587,% change,IMF WEO October 2026
+RUS,2006,gdp_growth,8.165227,% change,IMF WEO October 2026
+RUS,2007,gdp_growth,8.55031,% change,IMF WEO October 2026
+RUS,2008,gdp_growth,5.247087,% change,IMF WEO October 2026
+RUS,2009,gdp_growth,-7.820934,% change,IMF WEO October 2026
+RUS,2010,gdp_growth,4.512342,% change,IMF WEO October 2026
+RUS,2011,gdp_growth,3.994708,% change,IMF WEO October 2026
+RUS,2012,gdp_growth,4.024086,% change,IMF WEO October 2026
+RUS,2013,gdp_growth,1.755422,% change,IMF WEO October 2026
+RUS,2014,gdp_growth,0.736268,% change,IMF WEO October 2026
+RUS,2015,gdp_growth,-1.972719,% change,IMF WEO October 2026
+RUS,2016,gdp_growth,0.193671,% change,IMF WEO October 2026
+RUS,2017,gdp_growth,1.826706,% change,IMF WEO October 2026
+RUS,2018,gdp_growth,2.80634,% change,IMF WEO October 2026
+RUS,2019,gdp_growth,2.198076,% change,IMF WEO October 2026
+RUS,2020,gdp_growth,-2.653654,% change,IMF WEO October 2026
+RUS,2021,gdp_growth,5.866491,% change,IMF WEO October 2026
+RUS,2022,gdp_growth,-1.43537,% change,IMF WEO October 2026
+RUS,2023,gdp_growth,4.066614,% change,IMF WEO October 2026
+RUS,2024,gdp_growth,4.92168,% change,IMF WEO October 2026
+RUS,2025,gdp_growth,1.001177,% change,IMF WEO October 2026
+RUS,2026,gdp_growth,0.867061,% change,IMF WEO October 2026
+RUS,2027,gdp_growth,0.923555,% change,IMF WEO October 2026
+RUS,2028,gdp_growth,1.0,% change,IMF WEO October 2026
+RUS,2029,gdp_growth,1.0,% change,IMF WEO October 2026
+RUS,2030,gdp_growth,1.0,% change,IMF WEO October 2026
+RUS,2031,gdp_growth,1.0,% change,IMF WEO October 2026
+RUS,1991,inflation,135.648148,"% change, period average",IMF WEO October 2026
+RUS,1992,inflation,1569.076621,"% change, period average",IMF WEO October 2026
+RUS,1993,inflation,874.254908,"% change, period average",IMF WEO October 2026
+RUS,1994,inflation,307.547047,"% change, period average",IMF WEO October 2026
+RUS,1995,inflation,197.300263,"% change, period average",IMF WEO October 2026
+RUS,1996,inflation,47.752096,"% change, period average",IMF WEO October 2026
+RUS,1997,inflation,14.761329,"% change, period average",IMF WEO October 2026
+RUS,1998,inflation,27.685678,"% change, period average",IMF WEO October 2026
+RUS,1999,inflation,85.746483,"% change, period average",IMF WEO October 2026
+RUS,2000,inflation,20.798757,"% change, period average",IMF WEO October 2026
+RUS,2001,inflation,21.477015,"% change, period average",IMF WEO October 2026
+RUS,2002,inflation,15.788725,"% change, period average",IMF WEO October 2026
+RUS,2003,inflation,13.663295,"% change, period average",IMF WEO October 2026
+RUS,2004,inflation,10.888613,"% change, period average",IMF WEO October 2026
+RUS,2005,inflation,12.685302,"% change, period average",IMF WEO October 2026
+RUS,2006,inflation,9.668657,"% change, period average",IMF WEO October 2026
+RUS,2007,inflation,9.007302,"% change, period average",IMF WEO October 2026
+RUS,2008,inflation,14.110767,"% change, period average",IMF WEO October 2026
+RUS,2009,inflation,11.647324,"% change, period average",IMF WEO October 2026
+RUS,2010,inflation,6.849394,"% change, period average",IMF WEO October 2026
+RUS,2011,inflation,8.44047,"% change, period average",IMF WEO October 2026
+RUS,2012,inflation,5.074736,"% change, period average",IMF WEO October 2026
+RUS,2013,inflation,6.753716,"% change, period average",IMF WEO October 2026
+RUS,2014,inflation,7.823415,"% change, period average",IMF WEO October 2026
+RUS,2015,inflation,15.534397,"% change, period average",IMF WEO October 2026
+RUS,2016,inflation,7.042438,"% change, period average",IMF WEO October 2026
+RUS,2017,inflation,3.683334,"% change, period average",IMF WEO October 2026
+RUS,2018,inflation,2.878306,"% change, period average",IMF WEO October 2026
+RUS,2019,inflation,4.470368,"% change, period average",IMF WEO October 2026
+RUS,2020,inflation,3.38166,"% change, period average",IMF WEO October 2026
+RUS,2021,inflation,6.694455,"% change, period average",IMF WEO October 2026
+RUS,2022,inflation,13.749991,"% change, period average",IMF WEO October 2026
+RUS,2023,inflation,5.859455,"% change, period average",IMF WEO October 2026
+RUS,2024,inflation,8.441688,"% change, period average",IMF WEO October 2026
+RUS,2025,inflation,8.679787,"% change, period average",IMF WEO October 2026
+RUS,2026,inflation,6.066382,"% change, period average",IMF WEO October 2026
+RUS,2027,inflation,4.750255,"% change, period average",IMF WEO October 2026
+RUS,2028,inflation,4.0,"% change, period average",IMF WEO October 2026
+RUS,2029,inflation,4.0,"% change, period average",IMF WEO October 2026
+RUS,2030,inflation,4.0,"% change, period average",IMF WEO October 2026
+RUS,2031,inflation,4.0,"% change, period average",IMF WEO October 2026
+CHN,1997,current_account,3.819426,% of GDP,IMF WEO October 2026
+CHN,1998,current_account,3.034513,% of GDP,IMF WEO October 2026
+CHN,1999,current_account,1.912796,% of GDP,IMF WEO October 2026
+CHN,2000,current_account,1.669563,% of GDP,IMF WEO October 2026
+CHN,2001,current_account,1.284477,% of GDP,IMF WEO October 2026
+CHN,2002,current_account,2.377581,% of GDP,IMF WEO October 2026
+CHN,2003,current_account,2.556643,% of GDP,IMF WEO October 2026
+CHN,2004,current_account,3.474502,% of GDP,IMF WEO October 2026
+CHN,2005,current_account,5.710174,% of GDP,IMF WEO October 2026
+CHN,2006,current_account,8.30362,% of GDP,IMF WEO October 2026
+CHN,2007,current_account,9.79504,% of GDP,IMF WEO October 2026
+CHN,2008,current_account,9.00626,% of GDP,IMF WEO October 2026
+CHN,2009,current_account,4.687121,% of GDP,IMF WEO October 2026
+CHN,2010,current_account,3.839821,% of GDP,IMF WEO October 2026
+CHN,2011,current_account,1.773267,% of GDP,IMF WEO October 2026
+CHN,2012,current_account,2.48335,% of GDP,IMF WEO October 2026
+CHN,2013,current_account,1.520485,% of GDP,IMF WEO October 2026
+CHN,2014,current_account,2.211078,% of GDP,IMF WEO October 2026
+CHN,2015,current_account,2.597908,% of GDP,IMF WEO October 2026
+CHN,2016,current_account,1.66964,% of GDP,IMF WEO October 2026
+CHN,2017,current_account,1.503339,% of GDP,IMF WEO October 2026
+CHN,2018,current_account,0.170601,% of GDP,IMF WEO October 2026
+CHN,2019,current_account,0.619074,% of GDP,IMF WEO October 2026
+CHN,2020,current_account,1.491111,% of GDP,IMF WEO October 2026
+CHN,2021,current_account,1.634594,% of GDP,IMF WEO October 2026
+CHN,2022,current_account,2.202783,% of GDP,IMF WEO October 2026
+CHN,2023,current_account,1.399404,% of GDP,IMF WEO October 2026
+CHN,2024,current_account,2.422261,% of GDP,IMF WEO October 2026
+CHN,2025,current_account,3.690994,% of GDP,IMF WEO October 2026
+CHN,2026,current_account,4.006258,% of GDP,IMF WEO October 2026
+CHN,2027,current_account,3.89769,% of GDP,IMF WEO October 2026
+CHN,2028,current_account,3.925754,% of GDP,IMF WEO October 2026
+CHN,2029,current_account,3.762255,% of GDP,IMF WEO October 2026
+CHN,2030,current_account,3.659306,% of GDP,IMF WEO October 2026
+CHN,2031,current_account,3.471779,% of GDP,IMF WEO October 2026
+CHN,1995,government_debt,21.408854,% of GDP,IMF WEO October 2026
+CHN,1996,government_debt,21.22688,% of GDP,IMF WEO October 2026
+CHN,1997,government_debt,20.397168,% of GDP,IMF WEO October 2026
+CHN,1998,government_debt,20.406183,% of GDP,IMF WEO October 2026
+CHN,1999,government_debt,21.555801,% of GDP,IMF WEO October 2026
+CHN,2000,government_debt,22.644174,% of GDP,IMF WEO October 2026
+CHN,2001,government_debt,24.187029,% of GDP,IMF WEO October 2026
+CHN,2002,government_debt,25.498327,% of GDP,IMF WEO October 2026
+CHN,2003,government_debt,26.371409,% of GDP,IMF WEO October 2026
+CHN,2004,government_debt,25.931601,% of GDP,IMF WEO October 2026
+CHN,2005,government_debt,25.999929,% of GDP,IMF WEO October 2026
+CHN,2006,government_debt,25.225501,% of GDP,IMF WEO October 2026
+CHN,2007,government_debt,28.77287,% of GDP,IMF WEO October 2026
+CHN,2008,government_debt,26.635394,% of GDP,IMF WEO October 2026
+CHN,2009,government_debt,33.897046,% of GDP,IMF WEO October 2026
+CHN,2010,government_debt,33.054609,% of GDP,IMF WEO October 2026
+CHN,2011,government_debt,32.981436,% of GDP,IMF WEO October 2026
+CHN,2012,government_debt,33.860957,% of GDP,IMF WEO October 2026
+CHN,2013,government_debt,36.586445,% of GDP,IMF WEO October 2026
+CHN,2014,government_debt,39.40798,% of GDP,IMF WEO October 2026
+CHN,2015,government_debt,40.879829,% of GDP,IMF WEO October 2026
+CHN,2016,government_debt,49.987746,% of GDP,IMF WEO October 2026
+CHN,2017,government_debt,53.733898,% of GDP,IMF WEO October 2026
+CHN,2018,government_debt,55.720071,% of GDP,IMF WEO October 2026
+CHN,2019,government_debt,59.877878,% of GDP,IMF WEO October 2026
+CHN,2020,government_debt,70.611662,% of GDP,IMF WEO October 2026
+CHN,2021,government_debt,72.080902,% of GDP,IMF WEO October 2026
+CHN,2022,government_debt,77.253048,% of GDP,IMF WEO October 2026
+CHN,2023,government_debt,84.084313,% of GDP,IMF WEO October 2026
+CHN,2024,government_debt,90.505358,% of GDP,IMF WEO October 2026
+CHN,2025,government_debt,98.608625,% of GDP,IMF WEO October 2026
+CHN,2026,government_debt,104.368605,% of GDP,IMF WEO October 2026
+CHN,2027,government_debt,109.124714,% of GDP,IMF WEO October 2026
+CHN,2028,government_debt,113.223325,% of GDP,IMF WEO October 2026
+CHN,2029,government_debt,116.444898,% of GDP,IMF WEO October 2026
+CHN,2030,government_debt,119.450655,% of GDP,IMF WEO October 2026
+CHN,2031,government_debt,122.115796,% of GDP,IMF WEO October 2026
+CHN,1980,gdp_usd,306686687000.0,US$,IMF WEO October 2026
+CHN,1981,gdp_usd,290054260000.0,US$,IMF WEO October 2026
+CHN,1982,gdp_usd,284457752000.0,US$,IMF WEO October 2026
+CHN,1983,gdp_usd,305339970000.0,US$,IMF WEO October 2026
+CHN,1984,gdp_usd,314327586000.0,US$,IMF WEO October 2026
+CHN,1985,gdp_usd,310398956000.0,US$,IMF WEO October 2026
+CHN,1986,gdp_usd,301062895000.0,US$,IMF WEO October 2026
+CHN,1987,gdp_usd,327675981000.0,US$,IMF WEO October 2026
+CHN,1988,gdp_usd,408554541000.0,US$,IMF WEO October 2026
+CHN,1989,gdp_usd,457104914000.0,US$,IMF WEO October 2026
+CHN,1990,gdp_usd,395333668000.0,US$,IMF WEO October 2026
+CHN,1991,gdp_usd,414609359000.0,US$,IMF WEO October 2026
+CHN,1992,gdp_usd,494969717000.0,US$,IMF WEO October 2026
+CHN,1993,gdp_usd,621664729000.0,US$,IMF WEO October 2026
+CHN,1994,gdp_usd,566932368000.0,US$,IMF WEO October 2026
+CHN,1995,gdp_usd,738192399000.0,US$,IMF WEO October 2026
+CHN,1996,gdp_usd,868521325000.0,US$,IMF WEO October 2026
+CHN,1997,gdp_usd,967755555000.0,US$,IMF WEO October 2026
+CHN,1998,gdp_usd,1037116353000.0,US$,IMF WEO October 2026
+CHN,1999,gdp_usd,1103836536000.0,US$,IMF WEO October 2026
+CHN,2000,gdp_usd,1223770294000.0,US$,IMF WEO October 2026
+CHN,2001,gdp_usd,1355047723000.0,US$,IMF WEO October 2026
+CHN,2002,gdp_usd,1489831942000.0,US$,IMF WEO October 2026
+CHN,2003,gdp_usd,1683910837000.0,US$,IMF WEO October 2026
+CHN,2004,gdp_usd,1984196791000.0,US$,IMF WEO October 2026
+CHN,2005,gdp_usd,2318291685000.0,US$,IMF WEO October 2026
+CHN,2006,gdp_usd,2792072054000.0,US$,IMF WEO October 2026
+CHN,2007,gdp_usd,3605729879000.0,US$,IMF WEO October 2026
+CHN,2008,gdp_usd,4669735497000.0,US$,IMF WEO October 2026
+CHN,2009,gdp_usd,5189893134000.0,US$,IMF WEO October 2026
+CHN,2010,gdp_usd,6193268336000.0,US$,IMF WEO October 2026
+CHN,2011,gdp_usd,7674917941000.0,US$,IMF WEO October 2026
+CHN,2012,gdp_usd,8673435248000.0,US$,IMF WEO October 2026
+CHN,2013,gdp_usd,9747148485000.0,US$,IMF WEO October 2026
+CHN,2014,gdp_usd,10675634890000.0,US$,IMF WEO October 2026
+CHN,2015,gdp_usd,11279164794000.0,US$,IMF WEO October 2026
+CHN,2016,gdp_usd,11459780498000.0,US$,IMF WEO October 2026
+CHN,2017,gdp_usd,12550473948000.0,US$,IMF WEO October 2026
+CHN,2018,gdp_usd,14144680690000.0,US$,IMF WEO October 2026
+CHN,2019,gdp_usd,14581030659000.0,US$,IMF WEO October 2026
+CHN,2020,gdp_usd,15003299698000.0,US$,IMF WEO October 2026
+CHN,2021,gdp_usd,18194574905000.0,US$,IMF WEO October 2026
+CHN,2022,gdp_usd,18346878577000.0,US$,IMF WEO October 2026
+CHN,2023,gdp_usd,18367061178000.0,US$,IMF WEO October 2026
+CHN,2024,gdp_usd,18928994482000.0,US$,IMF WEO October 2026
+CHN,2025,gdp_usd,19626191043000.0,US$,IMF WEO October 2026
+CHN,2026,gdp_usd,21546402944000.0,US$,IMF WEO October 2026
+CHN,2027,gdp_usd,22939132112000.0,US$,IMF WEO October 2026
+CHN,2028,gdp_usd,24234521105000.0,US$,IMF WEO October 2026
+CHN,2029,gdp_usd,25657940524000.0,US$,IMF WEO October 2026
+CHN,2030,gdp_usd,27081473488000.0,US$,IMF WEO October 2026
+CHN,2031,gdp_usd,28553668740000.0,US$,IMF WEO October 2026
+CHN,1980,gdp_growth,7.910115,% change,IMF WEO October 2026
+CHN,1981,gdp_growth,5.1,% change,IMF WEO October 2026
+CHN,1982,gdp_growth,9.0,% change,IMF WEO October 2026
+CHN,1983,gdp_growth,10.8,% change,IMF WEO October 2026
+CHN,1984,gdp_growth,15.2,% change,IMF WEO October 2026
+CHN,1985,gdp_growth,13.501171,% change,IMF WEO October 2026
+CHN,1986,gdp_growth,8.9,% change,IMF WEO October 2026
+CHN,1987,gdp_growth,11.7,% change,IMF WEO October 2026
+CHN,1988,gdp_growth,11.2,% change,IMF WEO October 2026
+CHN,1989,gdp_growth,4.2,% change,IMF WEO October 2026
+CHN,1990,gdp_growth,3.888198,% change,IMF WEO October 2026
+CHN,1991,gdp_growth,10.203215,% change,IMF WEO October 2026
+CHN,1992,gdp_growth,14.277132,% change,IMF WEO October 2026
+CHN,1993,gdp_growth,13.935569,% change,IMF WEO October 2026
+CHN,1994,gdp_growth,13.102223,% change,IMF WEO October 2026
+CHN,1995,gdp_growth,11.016176,% change,IMF WEO October 2026
+CHN,1996,gdp_growth,9.96814,% change,IMF WEO October 2026
+CHN,1997,gdp_growth,9.318839,% change,IMF WEO October 2026
+CHN,1998,gdp_growth,7.933939,% change,IMF WEO October 2026
+CHN,1999,gdp_growth,7.757176,% change,IMF WEO October 2026
+CHN,2000,gdp_growth,8.57247,% change,IMF WEO October 2026
+CHN,2001,gdp_growth,8.319445,% change,IMF WEO October 2026
+CHN,2002,gdp_growth,9.214343,% change,IMF WEO October 2026
+CHN,2003,gdp_growth,10.121313,% change,IMF WEO October 2026
+CHN,2004,gdp_growth,10.115163,% change,IMF WEO October 2026
+CHN,2005,gdp_growth,11.436838,% change,IMF WEO October 2026
+CHN,2006,gdp_growth,12.664509,% change,IMF WEO October 2026
+CHN,2007,gdp_growth,14.153597,% change,IMF WEO October 2026
+CHN,2008,gdp_growth,9.638175,% change,IMF WEO October 2026
+CHN,2009,gdp_growth,9.445003,% change,IMF WEO October 2026
+CHN,2010,gdp_growth,10.586733,% change,IMF WEO October 2026
+CHN,2011,gdp_growth,9.450959,% change,IMF WEO October 2026
+CHN,2012,gdp_growth,7.847656,% change,IMF WEO October 2026
+CHN,2013,gdp_growth,7.770638,% change,IMF WEO October 2026
+CHN,2014,gdp_growth,7.491329,% change,IMF WEO October 2026
+CHN,2015,gdp_growth,7.018399,% change,IMF WEO October 2026
+CHN,2016,gdp_growth,6.775548,% change,IMF WEO October 2026
+CHN,2017,gdp_growth,6.890957,% change,IMF WEO October 2026
+CHN,2018,gdp_growth,6.758615,% change,IMF WEO October 2026
+CHN,2019,gdp_growth,6.064729,% change,IMF WEO October 2026
+CHN,2020,gdp_growth,2.33658,% change,IMF WEO October 2026
+CHN,2021,gdp_growth,8.555707,% change,IMF WEO October 2026
+CHN,2022,gdp_growth,3.112082,% change,IMF WEO October 2026
+CHN,2023,gdp_growth,5.376818,% change,IMF WEO October 2026
+CHN,2024,gdp_growth,5.0,% change,IMF WEO October 2026
+CHN,2025,gdp_growth,4.995927,% change,IMF WEO October 2026
+CHN,2026,gdp_growth,4.467974,% change,IMF WEO October 2026
+CHN,2027,gdp_growth,4.007627,% change,IMF WEO October 2026
+CHN,2028,gdp_growth,4.0,% change,IMF WEO October 2026
+CHN,2029,gdp_growth,3.665493,% change,IMF WEO October 2026
+CHN,2030,gdp_growth,3.348004,% change,IMF WEO October 2026
+CHN,2031,gdp_growth,3.29054,% change,IMF WEO October 2026
+CHN,1981,inflation,2.5,"% change, period average",IMF WEO October 2026
+CHN,1982,inflation,2.0,"% change, period average",IMF WEO October 2026
+CHN,1983,inflation,2.0,"% change, period average",IMF WEO October 2026
+CHN,1984,inflation,2.7,"% change, period average",IMF WEO October 2026
+CHN,1985,inflation,9.3,"% change, period average",IMF WEO October 2026
+CHN,1986,inflation,6.5,"% change, period average",IMF WEO October 2026
+CHN,1987,inflation,7.3,"% change, period average",IMF WEO October 2026
+CHN,1988,inflation,18.8,"% change, period average",IMF WEO October 2026
+CHN,1989,inflation,18.0,"% change, period average",IMF WEO October 2026
+CHN,1990,inflation,3.257123,"% change, period average",IMF WEO October 2026
+CHN,1991,inflation,3.508781,"% change, period average",IMF WEO October 2026
+CHN,1992,inflation,6.388548,"% change, period average",IMF WEO October 2026
+CHN,1993,inflation,14.692848,"% change, period average",IMF WEO October 2026
+CHN,1994,inflation,24.206672,"% change, period average",IMF WEO October 2026
+CHN,1995,inflation,16.784065,"% change, period average",IMF WEO October 2026
+CHN,1996,inflation,8.297821,"% change, period average",IMF WEO October 2026
+CHN,1997,inflation,2.801813,"% change, period average",IMF WEO October 2026
+CHN,1998,inflation,-0.797804,"% change, period average",IMF WEO October 2026
+CHN,1999,inflation,-1.402978,"% change, period average",IMF WEO October 2026
+CHN,2000,inflation,0.343517,"% change, period average",IMF WEO October 2026
+CHN,2001,inflation,0.72662,"% change, period average",IMF WEO October 2026
+CHN,2002,inflation,-0.744726,"% change, period average",IMF WEO October 2026
+CHN,2003,inflation,1.159397,"% change, period average",IMF WEO October 2026
+CHN,2004,inflation,3.875893,"% change, period average",IMF WEO October 2026
+CHN,2005,inflation,1.787232,"% change, period average",IMF WEO October 2026
+CHN,2006,inflation,1.492405,"% change, period average",IMF WEO October 2026
+CHN,2007,inflation,4.76878,"% change, period average",IMF WEO October 2026
+CHN,2008,inflation,5.82544,"% change, period average",IMF WEO October 2026
+CHN,2009,inflation,-0.668674,"% change, period average",IMF WEO October 2026
+CHN,2010,inflation,3.336207,"% change, period average",IMF WEO October 2026
+CHN,2011,inflation,5.405584,"% change, period average",IMF WEO October 2026
+CHN,2012,inflation,2.635817,"% change, period average",IMF WEO October 2026
+CHN,2013,inflation,2.612171,"% change, period average",IMF WEO October 2026
+CHN,2014,inflation,1.977769,"% change, period average",IMF WEO October 2026
+CHN,2015,inflation,1.463774,"% change, period average",IMF WEO October 2026
+CHN,2016,inflation,2.00566,"% change, period average",IMF WEO October 2026
+CHN,2017,inflation,1.574629,"% change, period average",IMF WEO October 2026
+CHN,2018,inflation,2.077693,"% change, period average",IMF WEO October 2026
+CHN,2019,inflation,2.913056,"% change, period average",IMF WEO October 2026
+CHN,2020,inflation,2.502936,"% change, period average",IMF WEO October 2026
+CHN,2021,inflation,0.924194,"% change, period average",IMF WEO October 2026
+CHN,2022,inflation,1.950673,"% change, period average",IMF WEO October 2026
+CHN,2023,inflation,0.235735,"% change, period average",IMF WEO October 2026
+CHN,2024,inflation,0.219856,"% change, period average",IMF WEO October 2026
+CHN,2025,inflation,0.049958,"% change, period average",IMF WEO October 2026
+CHN,2026,inflation,1.028186,"% change, period average",IMF WEO October 2026
+CHN,2027,inflation,1.355775,"% change, period average",IMF WEO October 2026
+CHN,2028,inflation,1.637475,"% change, period average",IMF WEO October 2026
+CHN,2029,inflation,1.901618,"% change, period average",IMF WEO October 2026
+CHN,2030,inflation,1.996581,"% change, period average",IMF WEO October 2026
+CHN,2031,inflation,1.99219,"% change, period average",IMF WEO October 2026
+CHN,2025,remittances_usd,30002559370.67,US$,World Bank WDI
+CHN,2024,remittances_usd,24980610479.96,US$,World Bank WDI
+CHN,2023,remittances_usd,22592912425.35,US$,World Bank WDI
+CHN,2022,remittances_usd,20424526329.53,US$,World Bank WDI
+CHN,2021,remittances_usd,17118443356.6,US$,World Bank WDI
+CHN,2020,remittances_usd,14714298893.63,US$,World Bank WDI
+CHN,2019,remittances_usd,14257782654.52,US$,World Bank WDI
+CHN,2018,remittances_usd,24305605210.61,US$,World Bank WDI
+CHN,2017,remittances_usd,28675983092.3,US$,World Bank WDI
+CHN,2016,remittances_usd,26883278893.8,US$,World Bank WDI
+CHN,2015,remittances_usd,33104675861.87,US$,World Bank WDI
+CHN,2014,remittances_usd,29910500593.04,US$,World Bank WDI
+CHN,2013,remittances_usd,17790105219.0,US$,World Bank WDI
+CHN,2012,remittances_usd,17065623287.0,US$,World Bank WDI
+CHN,2011,remittances_usd,16568371453.0,US$,World Bank WDI
+CHN,2010,remittances_usd,13636040942.0,US$,World Bank WDI
+CHN,2009,remittances_usd,9209489821.0,US$,World Bank WDI
+CHN,2008,remittances_usd,9136546899.82745,US$,World Bank WDI
+CHN,2007,remittances_usd,6833129702.14478,US$,World Bank WDI
+CHN,2006,remittances_usd,4319492608.79338,US$,World Bank WDI
+CHN,2005,remittances_usd,3337061829.2962,US$,World Bank WDI
+CHN,2004,remittances_usd,6641220178.7534,US$,World Bank WDI
+CHN,2003,remittances_usd,4625331810.0,US$,World Bank WDI
+CHN,2002,remittances_usd,2353070421.5742,US$,World Bank WDI
+CHN,2001,remittances_usd,1209000000.0,US$,World Bank WDI
+CHN,2000,remittances_usd,758082000.0,US$,World Bank WDI
+CHN,1999,remittances_usd,530000000.0,US$,World Bank WDI
+CHN,1998,remittances_usd,344000000.0,US$,World Bank WDI
+CHN,1997,remittances_usd,4589000000.0,US$,World Bank WDI
+CHN,1996,remittances_usd,1672000000.0,US$,World Bank WDI
+CHN,1995,remittances_usd,350000000.0,US$,World Bank WDI
+CHN,1994,remittances_usd,857000000.0,US$,World Bank WDI
+CHN,1993,remittances_usd,631380000.0,US$,World Bank WDI
+CHN,1992,remittances_usd,619380000.0,US$,World Bank WDI
+CHN,1991,remittances_usd,389820000.0,US$,World Bank WDI
+CHN,1990,remittances_usd,195940000.0,US$,World Bank WDI
+KAZ,2025,remittances_usd,236761388.166342,US$,World Bank WDI
+KAZ,2024,remittances_usd,240778837.67322,US$,World Bank WDI
+KAZ,2023,remittances_usd,303724235.916582,US$,World Bank WDI
+KAZ,2022,remittances_usd,480802889.841956,US$,World Bank WDI
+KAZ,2021,remittances_usd,309886230.136176,US$,World Bank WDI
+KAZ,2020,remittances_usd,374391281.095021,US$,World Bank WDI
+KAZ,2019,remittances_usd,506076000.839177,US$,World Bank WDI
+KAZ,2018,remittances_usd,618039381.045251,US$,World Bank WDI
+KAZ,2017,remittances_usd,560420963.876735,US$,World Bank WDI
+KAZ,2016,remittances_usd,384165377.828952,US$,World Bank WDI
+KAZ,2015,remittances_usd,294269675.872007,US$,World Bank WDI
+KAZ,2014,remittances_usd,401380996.114875,US$,World Bank WDI
+KAZ,2013,remittances_usd,341405870.661707,US$,World Bank WDI
+KAZ,2012,remittances_usd,282984848.948256,US$,World Bank WDI
+KAZ,2011,remittances_usd,179708290.699885,US$,World Bank WDI
+KAZ,2010,remittances_usd,225556234.272998,US$,World Bank WDI
+KAZ,2009,remittances_usd,198201187.601699,US$,World Bank WDI
+KAZ,2008,remittances_usd,125570547.361959,US$,World Bank WDI
+KAZ,2007,remittances_usd,142991414.016859,US$,World Bank WDI
+KAZ,2006,remittances_usd,83589869.9401791,US$,World Bank WDI
+KAZ,2005,remittances_usd,62021921.3283798,US$,World Bank WDI
+KAZ,2004,remittances_usd,57377330.6015159,US$,World Bank WDI
+KAZ,2003,remittances_usd,42197790.0,US$,World Bank WDI
+KAZ,2002,remittances_usd,111248207.673368,US$,World Bank WDI
+KAZ,2001,remittances_usd,85039400.0,US$,World Bank WDI
+KAZ,2000,remittances_usd,67472440.0,US$,World Bank WDI
+KAZ,1999,remittances_usd,3600000.0,US$,World Bank WDI
+KAZ,1998,remittances_usd,6400000.0,US$,World Bank WDI
+KAZ,1997,remittances_usd,1200000.0,US$,World Bank WDI
+KAZ,1996,remittances_usd,1200000.0,US$,World Bank WDI
+KAZ,1995,remittances_usd,116099998.5,US$,World Bank WDI
+KGZ,2024,remittances_usd,3197217915.01987,US$,World Bank WDI
+KGZ,2023,remittances_usd,2862985350.44172,US$,World Bank WDI
+KGZ,2022,remittances_usd,3266631755.94757,US$,World Bank WDI
+KGZ,2021,remittances_usd,3011845025.87625,US$,World Bank WDI
+KGZ,2020,remittances_usd,2630586519.03996,US$,World Bank WDI
+KGZ,2019,remittances_usd,2697606393.49283,US$,World Bank WDI
+KGZ,2018,remittances_usd,2688570122.3895,US$,World Bank WDI
+KGZ,2017,remittances_usd,2485778059.9718,US$,World Bank WDI
+KGZ,2016,remittances_usd,1994607957.6931,US$,World Bank WDI
+KGZ,2015,remittances_usd,1687701982.2203,US$,World Bank WDI
+KGZ,2014,remittances_usd,2242827292.1751,US$,World Bank WDI
+KGZ,2013,remittances_usd,2277998114.2017,US$,World Bank WDI
+KGZ,2012,remittances_usd,2031374213.382,US$,World Bank WDI
+KGZ,2011,remittances_usd,1708694027.7327,US$,World Bank WDI
+KGZ,2010,remittances_usd,1266195468.7718,US$,World Bank WDI
+KGZ,2009,remittances_usd,981964002.4539,US$,World Bank WDI
+KGZ,2008,remittances_usd,1223272673.0329,US$,World Bank WDI
+KGZ,2007,remittances_usd,704004667.8118,US$,World Bank WDI
+KGZ,2006,remittances_usd,473071915.7204,US$,World Bank WDI
+KGZ,2005,remittances_usd,313250258.3113,US$,World Bank WDI
+KGZ,2004,remittances_usd,179057440.0,US$,World Bank WDI
+KGZ,2003,remittances_usd,70327782.0,US$,World Bank WDI
+KGZ,2002,remittances_usd,30293198.6,US$,World Bank WDI
+KGZ,2001,remittances_usd,4533928.8,US$,World Bank WDI
+KGZ,2000,remittances_usd,2243715.0,US$,World Bank WDI
+KGZ,1999,remittances_usd,1143500.0,US$,World Bank WDI
+KGZ,1998,remittances_usd,2214200.0,US$,World Bank WDI
+KGZ,1997,remittances_usd,2740000.0,US$,World Bank WDI
+KGZ,1996,remittances_usd,2440000.0,US$,World Bank WDI
+KGZ,1995,remittances_usd,1243000.0,US$,World Bank WDI
+KGZ,1994,remittances_usd,1001999.974,US$,World Bank WDI
+KGZ,1993,remittances_usd,1784999.967,US$,World Bank WDI
+RUS,2025,remittances_usd,1611550000.0,US$,World Bank WDI
+RUS,2024,remittances_usd,1815510000.0,US$,World Bank WDI
+RUS,2023,remittances_usd,2616450000.0,US$,World Bank WDI
+RUS,2022,remittances_usd,3245171006.3563,US$,World Bank WDI
+RUS,2021,remittances_usd,9646920000.0,US$,World Bank WDI
+RUS,2020,remittances_usd,9914970000.0,US$,World Bank WDI
+RUS,2019,remittances_usd,10432480000.0,US$,World Bank WDI
+RUS,2018,remittances_usd,9287270000.0,US$,World Bank WDI
+RUS,2017,remittances_usd,8235000000.0,US$,World Bank WDI
+RUS,2016,remittances_usd,6688670000.0,US$,World Bank WDI
+RUS,2015,remittances_usd,6903390000.0,US$,World Bank WDI
+RUS,2014,remittances_usd,7776540000.0,US$,World Bank WDI
+RUS,2013,remittances_usd,6750810000.0,US$,World Bank WDI
+RUS,2012,remittances_usd,5787730000.0,US$,World Bank WDI
+RUS,2011,remittances_usd,6103270000.0,US$,World Bank WDI
+RUS,2010,remittances_usd,5250020000.0,US$,World Bank WDI
+RUS,2009,remittances_usd,5105060000.0,US$,World Bank WDI
+RUS,2008,remittances_usd,5736970000.0,US$,World Bank WDI
+RUS,2007,remittances_usd,4666330000.0,US$,World Bank WDI
+RUS,2006,remittances_usd,3820380000.0,US$,World Bank WDI
+RUS,2005,remittances_usd,3436560000.0,US$,World Bank WDI
+RUS,2004,remittances_usd,2206750000.0,US$,World Bank WDI
+RUS,2003,remittances_usd,1113700000.0,US$,World Bank WDI
+RUS,2002,remittances_usd,935980000.0,US$,World Bank WDI
+RUS,2001,remittances_usd,986410000.0,US$,World Bank WDI
+RUS,2000,remittances_usd,499950000.0,US$,World Bank WDI
+RUS,1999,remittances_usd,425210000.0,US$,World Bank WDI
+RUS,1998,remittances_usd,301170000.0,US$,World Bank WDI
+RUS,1997,remittances_usd,226750000.0,US$,World Bank WDI
+RUS,1996,remittances_usd,101500000.0,US$,World Bank WDI
+RUS,1995,remittances_usd,165900000.0,US$,World Bank WDI
+RUS,1994,remittances_usd,4563000000.0,US$,World Bank WDI
+TJK,2025,remittances_usd,10183973155.3402,US$,World Bank WDI
+TJK,2024,remittances_usd,6801890973.46099,US$,World Bank WDI
+TJK,2023,remittances_usd,4633754222.29702,US$,World Bank WDI
+TJK,2022,remittances_usd,5345546873.54599,US$,World Bank WDI
+TJK,2021,remittances_usd,2921713106.97699,US$,World Bank WDI
+TJK,2020,remittances_usd,2186807504.316,US$,World Bank WDI
+TJK,2019,remittances_usd,2321884645.342,US$,World Bank WDI
+TJK,2018,remittances_usd,2183340530.60599,US$,World Bank WDI
+TJK,2017,remittances_usd,2237179088.453,US$,World Bank WDI
+TJK,2016,remittances_usd,1867398638.26849,US$,World Bank WDI
+TJK,2015,remittances_usd,2258643220.12,US$,World Bank WDI
+TJK,2014,remittances_usd,3384055195.28,US$,World Bank WDI
+TJK,2013,remittances_usd,3697730868.06499,US$,World Bank WDI
+TJK,2012,remittances_usd,3222350604.58499,US$,World Bank WDI
+TJK,2011,remittances_usd,2722464917.0,US$,World Bank WDI
+TJK,2010,remittances_usd,2020504004.53,US$,World Bank WDI
+TJK,2009,remittances_usd,1565736892.45999,US$,World Bank WDI
+TJK,2008,remittances_usd,2277502898.175,US$,World Bank WDI
+TJK,2007,remittances_usd,1513697962.075,US$,World Bank WDI
+TJK,2006,remittances_usd,975868229.125,US$,World Bank WDI
+TJK,2005,remittances_usd,564376544.759999,US$,World Bank WDI
+TJK,2004,remittances_usd,252002100.0,US$,World Bank WDI
+TJK,2003,remittances_usd,146024400.0,US$,World Bank WDI
+TJK,2002,remittances_usd,78562800.0,US$,World Bank WDI
+UZB,2025,remittances_usd,21100902510.6854,US$,World Bank WDI
+UZB,2024,remittances_usd,16579258955.3401,US$,World Bank WDI
+UZB,2023,remittances_usd,14168883803.2474,US$,World Bank WDI
+UZB,2022,remittances_usd,15512123643.7067,US$,World Bank WDI
+UZB,2021,remittances_usd,9276845181.10841,US$,World Bank WDI
+UZB,2020,remittances_usd,7083725806.44577,US$,World Bank WDI
+UZB,2019,remittances_usd,8546153773.20434,US$,World Bank WDI
+UZB,2018,remittances_usd,7609613691.87163,US$,World Bank WDI
+UZB,2017,remittances_usd,7130151739.46001,US$,World Bank WDI
+UZB,2016,remittances_usd,5795061401.25167,US$,World Bank WDI
+UZB,2015,remittances_usd,4843179722.12111,US$,World Bank WDI
+UZB,2014,remittances_usd,6814316319.56741,US$,World Bank WDI
+UZB,2013,remittances_usd,6441534870.71052,US$,World Bank WDI
+UZB,2012,remittances_usd,6087971428.9721,US$,World Bank WDI
+UZB,2011,remittances_usd,4907420018.68114,US$,World Bank WDI
+UZB,2010,remittances_usd,3435379055.47969,US$,World Bank WDI
+UZB,2009,remittances_usd,2178092136.28341,US$,World Bank WDI
+UZB,2008,remittances_usd,3629959095.45539,US$,World Bank WDI
+UZB,2007,remittances_usd,1706573278.45895,US$,World Bank WDI
+UZB,2006,remittances_usd,1417694341.82363,US$,World Bank WDI
+UZB,2005,remittances_usd,1026125524.12169,US$,World Bank WDI
+CHN,2025,remittances_gdp,0.153874750038044,% of GDP,World Bank WDI
+CHN,2024,remittances_gdp,0.133374547261861,% of GDP,World Bank WDI
+CHN,2023,remittances_gdp,0.123658847238454,% of GDP,World Bank WDI
+CHN,2022,remittances_gdp,0.111507279289459,% of GDP,World Bank WDI
+CHN,2021,remittances_gdp,0.0940486029372652,% of GDP,World Bank WDI
+CHN,2020,remittances_gdp,0.0981187817971095,% of GDP,World Bank WDI
+CHN,2019,remittances_gdp,0.097923207579556,% of GDP,World Bank WDI
+CHN,2018,remittances_gdp,0.171798187789183,% of GDP,World Bank WDI
+CHN,2017,remittances_gdp,0.22872062217092,% of GDP,World Bank WDI
+CHN,2016,remittances_gdp,0.234664999780238,% of GDP,World Bank WDI
+CHN,2015,remittances_gdp,0.293459971514147,% of GDP,World Bank WDI
+CHN,2014,remittances_gdp,0.28020429672732,% of GDP,World Bank WDI
+CHN,2013,remittances_gdp,0.182591382060942,% of GDP,World Bank WDI
+CHN,2012,remittances_gdp,0.196752167063247,% of GDP,World Bank WDI
+CHN,2011,remittances_gdp,0.215965795112023,% of GDP,World Bank WDI
+CHN,2010,remittances_gdp,0.220200211357557,% of GDP,World Bank WDI
+CHN,2009,remittances_gdp,0.177461277719091,% of GDP,World Bank WDI
+CHN,2008,remittances_gdp,0.195754634183571,% of GDP,World Bank WDI
+CHN,2007,remittances_gdp,0.189595556743322,% of GDP,World Bank WDI
+CHN,2006,remittances_gdp,0.154737416153914,% of GDP,World Bank WDI
+CHN,2005,remittances_gdp,0.143990850692326,% of GDP,World Bank WDI
+CHN,2004,remittances_gdp,0.33470576160415,% of GDP,World Bank WDI
+CHN,2003,remittances_gdp,0.274679180387674,% of GDP,World Bank WDI
+CHN,2002,remittances_gdp,0.157943091440011,% of GDP,World Bank WDI
+CHN,2001,remittances_gdp,0.0892226828926873,% of GDP,World Bank WDI
+CHN,2000,remittances_gdp,0.0619472075354708,% of GDP,World Bank WDI
+CHN,1999,remittances_gdp,0.0480140656103324,% of GDP,World Bank WDI
+CHN,1998,remittances_gdp,0.0331683227992206,% of GDP,World Bank WDI
+CHN,1997,remittances_gdp,0.474190965571829,% of GDP,World Bank WDI
+CHN,1996,remittances_gdp,0.19251052615544,% of GDP,World Bank WDI
+CHN,1995,remittances_gdp,0.0474132100231308,% of GDP,World Bank WDI
+CHN,1994,remittances_gdp,0.15116516961987,% of GDP,World Bank WDI
+CHN,1993,remittances_gdp,0.141388353168787,% of GDP,World Bank WDI
+CHN,1992,remittances_gdp,0.144545296677853,% of GDP,World Bank WDI
+CHN,1991,remittances_gdp,0.101380858959082,% of GDP,World Bank WDI
+CHN,1990,remittances_gdp,0.0541929073063418,% of GDP,World Bank WDI
+KAZ,2025,remittances_gdp,0.0773125650490405,% of GDP,World Bank WDI
+KAZ,2024,remittances_gdp,0.08260553410117,% of GDP,World Bank WDI
+KAZ,2023,remittances_gdp,0.115996073438374,% of GDP,World Bank WDI
+KAZ,2022,remittances_gdp,0.213219830288597,% of GDP,World Bank WDI
+KAZ,2021,remittances_gdp,0.157213071084416,% of GDP,World Bank WDI
+KAZ,2020,remittances_gdp,0.218836862121885,% of GDP,World Bank WDI
+KAZ,2019,remittances_gdp,0.278573150811193,% of GDP,World Bank WDI
+KAZ,2018,remittances_gdp,0.344618856879696,% of GDP,World Bank WDI
+KAZ,2017,remittances_gdp,0.33597213131325,% of GDP,World Bank WDI
+KAZ,2016,remittances_gdp,0.27984417174788,% of GDP,World Bank WDI
+KAZ,2015,remittances_gdp,0.15959228908192,% of GDP,World Bank WDI
+KAZ,2014,remittances_gdp,0.181279445291607,% of GDP,World Bank WDI
+KAZ,2013,remittances_gdp,0.144275547930533,% of GDP,World Bank WDI
+KAZ,2012,remittances_gdp,0.136051344243071,% of GDP,World Bank WDI
+KAZ,2011,remittances_gdp,0.0932936660895134,% of GDP,World Bank WDI
+KAZ,2010,remittances_gdp,0.152354119782252,% of GDP,World Bank WDI
+KAZ,2009,remittances_gdp,0.171887472539219,% of GDP,World Bank WDI
+KAZ,2008,remittances_gdp,0.0941014656535349,% of GDP,World Bank WDI
+KAZ,2007,remittances_gdp,0.136377234008485,% of GDP,World Bank WDI
+KAZ,2006,remittances_gdp,0.103192446831978,% of GDP,World Bank WDI
+KAZ,2005,remittances_gdp,0.108574815738916,% of GDP,World Bank WDI
+KAZ,2004,remittances_gdp,0.132966722215831,% of GDP,World Bank WDI
+KAZ,2003,remittances_gdp,0.136856101332743,% of GDP,World Bank WDI
+KAZ,2002,remittances_gdp,0.451556685268236,% of GDP,World Bank WDI
+KAZ,2001,remittances_gdp,0.383878450645308,% of GDP,World Bank WDI
+KAZ,2000,remittances_gdp,0.368863297858754,% of GDP,World Bank WDI
+KAZ,1999,remittances_gdp,0.0213386225528418,% of GDP,World Bank WDI
+KAZ,1998,remittances_gdp,0.0289131647438488,% of GDP,World Bank WDI
+KAZ,1997,remittances_gdp,0.00541371324513312,% of GDP,World Bank WDI
+KAZ,1996,remittances_gdp,0.00570468067907766,% of GDP,World Bank WDI
+KAZ,1995,remittances_gdp,0.569835446546816,% of GDP,World Bank WDI
+KGZ,2024,remittances_gdp,17.6042447290407,% of GDP,World Bank WDI
+KGZ,2023,remittances_gdp,18.8591995144866,% of GDP,World Bank WDI
+KGZ,2022,remittances_gdp,26.9192445438421,% of GDP,World Bank WDI
+KGZ,2021,remittances_gdp,32.5635356064056,% of GDP,World Bank WDI
+KGZ,2020,remittances_gdp,31.8069826721848,% of GDP,World Bank WDI
+KGZ,2019,remittances_gdp,28.7859049850986,% of GDP,World Bank WDI
+KGZ,2018,remittances_gdp,32.5055687336898,% of GDP,World Bank WDI
+KGZ,2017,remittances_gdp,32.2705172692664,% of GDP,World Bank WDI
+KGZ,2016,remittances_gdp,29.2760903334236,% of GDP,World Bank WDI
+KGZ,2015,remittances_gdp,25.2718946040713,% of GDP,World Bank WDI
+KGZ,2014,remittances_gdp,30.0320907271748,% of GDP,World Bank WDI
+KGZ,2013,remittances_gdp,31.0564092290657,% of GDP,World Bank WDI
+KGZ,2012,remittances_gdp,30.7544325527209,% of GDP,World Bank WDI
+KGZ,2011,remittances_gdp,27.5695150811653,% of GDP,World Bank WDI
+KGZ,2010,remittances_gdp,26.4100938758912,% of GDP,World Bank WDI
+KGZ,2009,remittances_gdp,20.9371247573683,% of GDP,World Bank WDI
+KGZ,2008,remittances_gdp,23.7992695009347,% of GDP,World Bank WDI
+KGZ,2007,remittances_gdp,18.513914681679,% of GDP,World Bank WDI
+KGZ,2006,remittances_gdp,16.6917334209106,% of GDP,World Bank WDI
+KGZ,2005,remittances_gdp,12.7324731237381,% of GDP,World Bank WDI
+KGZ,2004,remittances_gdp,8.09652452257376,% of GDP,World Bank WDI
+KGZ,2003,remittances_gdp,3.66479861905155,% of GDP,World Bank WDI
+KGZ,2002,remittances_gdp,1.88667073714928,% of GDP,World Bank WDI
+KGZ,2001,remittances_gdp,0.297284121287703,% of GDP,World Bank WDI
+KGZ,2000,remittances_gdp,0.163812064068962,% of GDP,World Bank WDI
+KGZ,1999,remittances_gdp,0.0915487357418349,% of GDP,World Bank WDI
+KGZ,1998,remittances_gdp,0.134523011228329,% of GDP,World Bank WDI
+KGZ,1997,remittances_gdp,0.154989294687754,% of GDP,World Bank WDI
+KGZ,1996,remittances_gdp,0.133510575102674,% of GDP,World Bank WDI
+KGZ,1995,remittances_gdp,0.0748278131693207,% of GDP,World Bank WDI
+KGZ,1994,remittances_gdp,0.0595796994324542,% of GDP,World Bank WDI
+KGZ,1993,remittances_gdp,0.0881038008251092,% of GDP,World Bank WDI
+RUS,2025,remittances_gdp,0.0629189708954098,% of GDP,World Bank WDI
+RUS,2024,remittances_gdp,0.0830341335359767,% of GDP,World Bank WDI
+RUS,2023,remittances_gdp,0.127863430897728,% of GDP,World Bank WDI
+RUS,2022,remittances_gdp,0.14155628989734,% of GDP,World Bank WDI
+RUS,2021,remittances_gdp,0.527388477992061,% of GDP,World Bank WDI
+RUS,2020,remittances_gdp,0.66406336325159,% of GDP,World Bank WDI
+RUS,2019,remittances_gdp,0.616170784814508,% of GDP,World Bank WDI
+RUS,2018,remittances_gdp,0.560375837837153,% of GDP,World Bank WDI
+RUS,2017,remittances_gdp,0.523123068702963,% of GDP,World Bank WDI
+RUS,2016,remittances_gdp,0.523867598943551,% of GDP,World Bank WDI
+RUS,2015,remittances_gdp,0.506305846173427,% of GDP,World Bank WDI
+RUS,2014,remittances_gdp,0.377640974141187,% of GDP,World Bank WDI
+RUS,2013,remittances_gdp,0.294477562161684,% of GDP,World Bank WDI
+RUS,2012,remittances_gdp,0.262090607919179,% of GDP,World Bank WDI
+RUS,2011,remittances_gdp,0.298313804363493,% of GDP,World Bank WDI
+RUS,2010,remittances_gdp,0.344282408841521,% of GDP,World Bank WDI
+RUS,2009,remittances_gdp,0.417541988221401,% of GDP,World Bank WDI
+RUS,2008,remittances_gdp,0.34542413264832,% of GDP,World Bank WDI
+RUS,2007,remittances_gdp,0.359030354019774,% of GDP,World Bank WDI
+RUS,2006,remittances_gdp,0.385923449755519,% of GDP,World Bank WDI
+RUS,2005,remittances_gdp,0.449802113997943,% of GDP,World Bank WDI
+RUS,2004,remittances_gdp,0.373382010119783,% of GDP,World Bank WDI
+RUS,2003,remittances_gdp,0.258790908871147,% of GDP,World Bank WDI
+RUS,2002,remittances_gdp,0.270929070680024,% of GDP,World Bank WDI
+RUS,2001,remittances_gdp,0.32172320232662,% of GDP,World Bank WDI
+RUS,2000,remittances_gdp,0.192503071220407,% of GDP,World Bank WDI
+RUS,1999,remittances_gdp,0.21704672187237,% of GDP,World Bank WDI
+RUS,1998,remittances_gdp,0.111151098465445,% of GDP,World Bank WDI
+RUS,1997,remittances_gdp,0.0559974774963992,% of GDP,World Bank WDI
+RUS,1996,remittances_gdp,0.025911041753587,% of GDP,World Bank WDI
+RUS,1995,remittances_gdp,0.0419429590903774,% of GDP,World Bank WDI
+RUS,1994,remittances_gdp,1.1549638477282,% of GDP,World Bank WDI
+TJK,2025,remittances_gdp,57.6648462573476,% of GDP,World Bank WDI
+TJK,2024,remittances_gdp,47.1531186167275,% of GDP,World Bank WDI
+TJK,2023,remittances_gdp,37.8445781946342,% of GDP,World Bank WDI
+TJK,2022,remittances_gdp,49.8953124537059,% of GDP,World Bank WDI
+TJK,2021,remittances_gdp,32.6893794785095,% of GDP,World Bank WDI
+TJK,2020,remittances_gdp,26.8848943162433,% of GDP,World Bank WDI
+TJK,2019,remittances_gdp,27.9717718939678,% of GDP,World Bank WDI
+TJK,2018,remittances_gdp,28.1177144978702,% of GDP,World Bank WDI
+TJK,2017,remittances_gdp,29.6849721562403,% of GDP,World Bank WDI
+TJK,2016,remittances_gdp,26.70605713952,% of GDP,World Bank WDI
+TJK,2015,remittances_gdp,27.306557809196,% of GDP,World Bank WDI
+TJK,2014,remittances_gdp,37.1359784024863,% of GDP,World Bank WDI
+TJK,2013,remittances_gdp,43.7683574907798,% of GDP,World Bank WDI
+TJK,2012,remittances_gdp,42.2158394555421,% of GDP,World Bank WDI
+TJK,2011,remittances_gdp,41.7379526470592,% of GDP,World Bank WDI
+TJK,2010,remittances_gdp,35.8104365109815,% of GDP,World Bank WDI
+TJK,2009,remittances_gdp,31.4438313512332,% of GDP,World Bank WDI
+TJK,2008,remittances_gdp,44.1265382636326,% of GDP,World Bank WDI
+TJK,2007,remittances_gdp,40.6960068537209,% of GDP,World Bank WDI
+TJK,2006,remittances_gdp,34.4803707889679,% of GDP,World Bank WDI
+TJK,2005,remittances_gdp,24.4070340378686,% of GDP,World Bank WDI
+TJK,2004,remittances_gdp,12.1377953734503,% of GDP,World Bank WDI
+TJK,2003,remittances_gdp,9.38871507024825,% of GDP,World Bank WDI
+TJK,2002,remittances_gdp,6.43374005428851,% of GDP,World Bank WDI
+UZB,2025,remittances_gdp,14.3506378406251,% of GDP,World Bank WDI
+UZB,2024,remittances_gdp,13.6616648886765,% of GDP,World Bank WDI
+UZB,2023,remittances_gdp,13.1771038486206,% of GDP,World Bank WDI
+UZB,2022,remittances_gdp,16.4521404037101,% of GDP,World Bank WDI
+UZB,2021,remittances_gdp,11.4289013918049,% of GDP,World Bank WDI
+UZB,2020,remittances_gdp,10.1012633712903,% of GDP,World Bank WDI
+UZB,2019,remittances_gdp,12.179098017749,% of GDP,World Bank WDI
+UZB,2018,remittances_gdp,12.4100140915204,% of GDP,World Bank WDI
+UZB,2017,remittances_gdp,9.86511688347538,% of GDP,World Bank WDI
+UZB,2016,remittances_gdp,5.92110004959139,% of GDP,World Bank WDI
+UZB,2015,remittances_gdp,4.9640763777428,% of GDP,World Bank WDI
+UZB,2014,remittances_gdp,7.4633464579014,% of GDP,World Bank WDI
+UZB,2013,remittances_gdp,7.79147129024255,% of GDP,World Bank WDI
+UZB,2012,remittances_gdp,8.0829323297038,% of GDP,World Bank WDI
+UZB,2011,remittances_gdp,7.28053972389326,% of GDP,World Bank WDI
+UZB,2010,remittances_gdp,6.18494354622285,% of GDP,World Bank WDI
+UZB,2009,remittances_gdp,6.46524882083396,% of GDP,World Bank WDI
+UZB,2008,remittances_gdp,12.2843587985737,% of GDP,World Bank WDI
+UZB,2007,remittances_gdp,7.64888686011818,% of GDP,World Bank WDI
+UZB,2006,remittances_gdp,8.180185407437,% of GDP,World Bank WDI
+UZB,2005,remittances_gdp,7.17193652621924,% of GDP,World Bank WDI
+CHN,2025,exchange_rate,7.18984737402171,local currency per US$,World Bank WDI
+CHN,2024,exchange_rate,7.19749110789916,local currency per US$,World Bank WDI
+CHN,2023,exchange_rate,7.0839984234363,local currency per US$,World Bank WDI
+CHN,2022,exchange_rate,6.73715811237118,local currency per US$,World Bank WDI
+CHN,2021,exchange_rate,6.44897518024316,local currency per US$,World Bank WDI
+CHN,2020,exchange_rate,6.90076726944924,local currency per US$,World Bank WDI
+CHN,2019,exchange_rate,6.90838500992901,local currency per US$,World Bank WDI
+CHN,2018,exchange_rate,6.61595717735439,local currency per US$,World Bank WDI
+CHN,2017,exchange_rate,6.75875508633597,local currency per US$,World Bank WDI
+CHN,2016,exchange_rate,6.6444778294468,local currency per US$,World Bank WDI
+CHN,2015,exchange_rate,6.22748867298454,local currency per US$,World Bank WDI
+CHN,2014,exchange_rate,6.14343409448867,local currency per US$,World Bank WDI
+CHN,2013,exchange_rate,6.19575834608231,local currency per US$,World Bank WDI
+CHN,2012,exchange_rate,6.31233282683186,local currency per US$,World Bank WDI
+CHN,2011,exchange_rate,6.46146132655007,local currency per US$,World Bank WDI
+CHN,2010,exchange_rate,6.77026902870939,local currency per US$,World Bank WDI
+CHN,2009,exchange_rate,6.83141605176666,local currency per US$,World Bank WDI
+CHN,2008,exchange_rate,6.948655,local currency per US$,World Bank WDI
+CHN,2007,exchange_rate,7.6075325,local currency per US$,World Bank WDI
+CHN,2006,exchange_rate,7.97343833333333,local currency per US$,World Bank WDI
+CHN,2005,exchange_rate,8.19431666666666,local currency per US$,World Bank WDI
+CHN,2004,exchange_rate,8.27680083333333,local currency per US$,World Bank WDI
+CHN,2003,exchange_rate,8.27703666666666,local currency per US$,World Bank WDI
+CHN,2002,exchange_rate,8.2769575,local currency per US$,World Bank WDI
+CHN,2001,exchange_rate,8.27706833333333,local currency per US$,World Bank WDI
+CHN,2000,exchange_rate,8.27850416666666,local currency per US$,World Bank WDI
+CHN,1999,exchange_rate,8.27825,local currency per US$,World Bank WDI
+CHN,1998,exchange_rate,8.27895833333333,local currency per US$,World Bank WDI
+CHN,1997,exchange_rate,8.28981666666666,local currency per US$,World Bank WDI
+CHN,1996,exchange_rate,8.314175,local currency per US$,World Bank WDI
+CHN,1995,exchange_rate,8.35141666666666,local currency per US$,World Bank WDI
+CHN,1994,exchange_rate,8.61874266666666,local currency per US$,World Bank WDI
+CHN,1993,exchange_rate,5.76195833333333,local currency per US$,World Bank WDI
+CHN,1992,exchange_rate,5.51459166666666,local currency per US$,World Bank WDI
+CHN,1991,exchange_rate,5.32339166666666,local currency per US$,World Bank WDI
+CHN,1990,exchange_rate,4.78320833333333,local currency per US$,World Bank WDI
+KAZ,2025,exchange_rate,521.035,local currency per US$,World Bank WDI
+KAZ,2024,exchange_rate,468.9625,local currency per US$,World Bank WDI
+KAZ,2023,exchange_rate,456.165,local currency per US$,World Bank WDI
+KAZ,2022,exchange_rate,460.165,local currency per US$,World Bank WDI
+KAZ,2021,exchange_rate,425.9075,local currency per US$,World Bank WDI
+KAZ,2020,exchange_rate,412.953333333333,local currency per US$,World Bank WDI
+KAZ,2019,exchange_rate,382.74731060606,local currency per US$,World Bank WDI
+KAZ,2018,exchange_rate,344.705833333333,local currency per US$,World Bank WDI
+KAZ,2017,exchange_rate,326.001022727272,local currency per US$,World Bank WDI
+KAZ,2016,exchange_rate,342.16,local currency per US$,World Bank WDI
+KAZ,2015,exchange_rate,221.728333333333,local currency per US$,World Bank WDI
+KAZ,2014,exchange_rate,179.191666666666,local currency per US$,World Bank WDI
+KAZ,2013,exchange_rate,152.129166666666,local currency per US$,World Bank WDI
+KAZ,2012,exchange_rate,149.1125,local currency per US$,World Bank WDI
+KAZ,2011,exchange_rate,146.620833333333,local currency per US$,World Bank WDI
+KAZ,2010,exchange_rate,147.355,local currency per US$,World Bank WDI
+KAZ,2009,exchange_rate,147.496666666666,local currency per US$,World Bank WDI
+KAZ,2008,exchange_rate,120.299166666666,local currency per US$,World Bank WDI
+KAZ,2007,exchange_rate,122.554166666666,local currency per US$,World Bank WDI
+KAZ,2006,exchange_rate,126.089430555555,local currency per US$,World Bank WDI
+KAZ,2005,exchange_rate,132.88,local currency per US$,World Bank WDI
+KAZ,2004,exchange_rate,136.035,local currency per US$,World Bank WDI
+KAZ,2003,exchange_rate,149.575833333333,local currency per US$,World Bank WDI
+KAZ,2002,exchange_rate,153.279166666666,local currency per US$,World Bank WDI
+KAZ,2001,exchange_rate,146.735833333333,local currency per US$,World Bank WDI
+KAZ,2000,exchange_rate,142.133333333333,local currency per US$,World Bank WDI
+KAZ,1999,exchange_rate,119.523333333333,local currency per US$,World Bank WDI
+KAZ,1998,exchange_rate,78.3033333333333,local currency per US$,World Bank WDI
+KAZ,1997,exchange_rate,75.4375,local currency per US$,World Bank WDI
+KAZ,1996,exchange_rate,67.3033333333333,local currency per US$,World Bank WDI
+KAZ,1995,exchange_rate,60.95,local currency per US$,World Bank WDI
+KAZ,1994,exchange_rate,35.5383333333333,local currency per US$,World Bank WDI
+KGZ,2025,exchange_rate,87.3598319399642,local currency per US$,World Bank WDI
+KGZ,2024,exchange_rate,87.1503126405883,local currency per US$,World Bank WDI
+KGZ,2023,exchange_rate,87.8561255862775,local currency per US$,World Bank WDI
+KGZ,2022,exchange_rate,84.1162225704045,local currency per US$,World Bank WDI
+KGZ,2021,exchange_rate,84.6408220065284,local currency per US$,World Bank WDI
+KGZ,2020,exchange_rate,77.3461127039303,local currency per US$,World Bank WDI
+KGZ,2019,exchange_rate,69.7893491807475,local currency per US$,World Bank WDI
+KGZ,2018,exchange_rate,68.8403203277009,local currency per US$,World Bank WDI
+KGZ,2017,exchange_rate,68.8666678590629,local currency per US$,World Bank WDI
+KGZ,2016,exchange_rate,69.9140658252997,local currency per US$,World Bank WDI
+KGZ,2015,exchange_rate,64.4621082725294,local currency per US$,World Bank WDI
+KGZ,2014,exchange_rate,53.654058312852,local currency per US$,World Bank WDI
+KGZ,2013,exchange_rate,48.4380590087726,local currency per US$,World Bank WDI
+KGZ,2012,exchange_rate,47.0044791422568,local currency per US$,World Bank WDI
+KGZ,2011,exchange_rate,46.1439013172043,local currency per US$,World Bank WDI
+KGZ,2010,exchange_rate,45.9642614008138,local currency per US$,World Bank WDI
+KGZ,2009,exchange_rate,42.9041083333333,local currency per US$,World Bank WDI
+KGZ,2008,exchange_rate,36.5745916666666,local currency per US$,World Bank WDI
+KGZ,2007,exchange_rate,37.3162568055555,local currency per US$,World Bank WDI
+KGZ,2006,exchange_rate,40.1528999454204,local currency per US$,World Bank WDI
+KGZ,2005,exchange_rate,41.0118205059348,local currency per US$,World Bank WDI
+KGZ,2004,exchange_rate,42.6499416666666,local currency per US$,World Bank WDI
+KGZ,2003,exchange_rate,43.648375,local currency per US$,World Bank WDI
+KGZ,2002,exchange_rate,46.9370666666666,local currency per US$,World Bank WDI
+KGZ,2001,exchange_rate,48.3779583333333,local currency per US$,World Bank WDI
+KGZ,2000,exchange_rate,47.7038333333333,local currency per US$,World Bank WDI
+KGZ,1999,exchange_rate,39.0077333333333,local currency per US$,World Bank WDI
+KGZ,1998,exchange_rate,20.8375666666666,local currency per US$,World Bank WDI
+KGZ,1997,exchange_rate,17.3624916666666,local currency per US$,World Bank WDI
+KGZ,1996,exchange_rate,12.8095583333333,local currency per US$,World Bank WDI
+KGZ,1995,exchange_rate,10.8218833333333,local currency per US$,World Bank WDI
+KGZ,1994,exchange_rate,10.8416833333333,local currency per US$,World Bank WDI
+RUS,2025,exchange_rate,83.6525,local currency per US$,World Bank WDI
+RUS,2024,exchange_rate,92.5523999999999,local currency per US$,World Bank WDI
+RUS,2023,exchange_rate,85.1620083333333,local currency per US$,World Bank WDI
+RUS,2022,exchange_rate,68.4849416666666,local currency per US$,World Bank WDI
+RUS,2021,exchange_rate,73.65435,local currency per US$,World Bank WDI
+RUS,2020,exchange_rate,72.1049083333333,local currency per US$,World Bank WDI
+RUS,2019,exchange_rate,64.7376583333333,local currency per US$,World Bank WDI
+RUS,2018,exchange_rate,62.6681333333333,local currency per US$,World Bank WDI
+RUS,2017,exchange_rate,58.3428011851719,local currency per US$,World Bank WDI
+RUS,2016,exchange_rate,67.0559333333333,local currency per US$,World Bank WDI
+RUS,2015,exchange_rate,60.9376501088951,local currency per US$,World Bank WDI
+RUS,2014,exchange_rate,38.3782071444168,local currency per US$,World Bank WDI
+RUS,2013,exchange_rate,31.8371436402813,local currency per US$,World Bank WDI
+RUS,2012,exchange_rate,30.8398313519917,local currency per US$,World Bank WDI
+RUS,2011,exchange_rate,29.3823413709302,local currency per US$,World Bank WDI
+RUS,2010,exchange_rate,30.3679153383059,local currency per US$,World Bank WDI
+RUS,2009,exchange_rate,31.7403583333333,local currency per US$,World Bank WDI
+RUS,2008,exchange_rate,24.852875,local currency per US$,World Bank WDI
+RUS,2007,exchange_rate,25.5808453675404,local currency per US$,World Bank WDI
+RUS,2006,exchange_rate,27.1909583333333,local currency per US$,World Bank WDI
+RUS,2005,exchange_rate,28.2844416666666,local currency per US$,World Bank WDI
+RUS,2004,exchange_rate,28.8137416666666,local currency per US$,World Bank WDI
+RUS,2003,exchange_rate,30.692025,local currency per US$,World Bank WDI
+RUS,2002,exchange_rate,31.3484833333333,local currency per US$,World Bank WDI
+RUS,2001,exchange_rate,29.168525,local currency per US$,World Bank WDI
+RUS,2000,exchange_rate,28.1291666666666,local currency per US$,World Bank WDI
+RUS,1999,exchange_rate,24.6199,local currency per US$,World Bank WDI
+RUS,1998,exchange_rate,9.70508333333333,local currency per US$,World Bank WDI
+RUS,1997,exchange_rate,5.78483333333333,local currency per US$,World Bank WDI
+RUS,1996,exchange_rate,5.12083333333333,local currency per US$,World Bank WDI
+RUS,1993,exchange_rate,0.991666666666666,local currency per US$,World Bank WDI
+TJK,2025,exchange_rate,10.0177083333333,local currency per US$,World Bank WDI
+TJK,2024,exchange_rate,10.7994916666666,local currency per US$,World Bank WDI
+TJK,2023,exchange_rate,10.844525,local currency per US$,World Bank WDI
+TJK,2022,exchange_rate,11.031075,local currency per US$,World Bank WDI
+TJK,2021,exchange_rate,11.30885,local currency per US$,World Bank WDI
+TJK,2020,exchange_rate,10.3219416666666,local currency per US$,World Bank WDI
+TJK,2019,exchange_rate,9.53036666666666,local currency per US$,World Bank WDI
+TJK,2018,exchange_rate,9.15121666666666,local currency per US$,World Bank WDI
+TJK,2017,exchange_rate,8.54974166666666,local currency per US$,World Bank WDI
+TJK,2016,exchange_rate,7.835675,local currency per US$,World Bank WDI
+TJK,2015,exchange_rate,6.16311666666666,local currency per US$,World Bank WDI
+TJK,2014,exchange_rate,4.93756666666666,local currency per US$,World Bank WDI
+TJK,2013,exchange_rate,4.76423333333333,local currency per US$,World Bank WDI
+TJK,2012,exchange_rate,4.73770833333333,local currency per US$,World Bank WDI
+TJK,2011,exchange_rate,4.61018333333333,local currency per US$,World Bank WDI
+TJK,2010,exchange_rate,4.37896666666666,local currency per US$,World Bank WDI
+TJK,2009,exchange_rate,4.14270833333333,local currency per US$,World Bank WDI
+TJK,2008,exchange_rate,3.430725,local currency per US$,World Bank WDI
+TJK,2007,exchange_rate,3.44248333333333,local currency per US$,World Bank WDI
+TJK,2006,exchange_rate,3.29840833333333,local currency per US$,World Bank WDI
+TJK,2005,exchange_rate,3.11656666666666,local currency per US$,World Bank WDI
+TJK,2004,exchange_rate,2.97050833333333,local currency per US$,World Bank WDI
+TJK,2003,exchange_rate,3.06136666666666,local currency per US$,World Bank WDI
+TJK,2002,exchange_rate,2.76413333333333,local currency per US$,World Bank WDI
+TJK,2001,exchange_rate,2.37219166666666,local currency per US$,World Bank WDI
+TJK,2000,exchange_rate,2.07625,local currency per US$,World Bank WDI
+TJK,1999,exchange_rate,1.23779166666666,local currency per US$,World Bank WDI
+TJK,1998,exchange_rate,0.776625,local currency per US$,World Bank WDI
+TJK,1997,exchange_rate,0.562333333333333,local currency per US$,World Bank WDI
+TJK,1996,exchange_rate,0.2955,local currency per US$,World Bank WDI
+TJK,1995,exchange_rate,0.122858703333333,local currency per US$,World Bank WDI
+TJK,1994,exchange_rate,0.0244943481666666,local currency per US$,World Bank WDI
+TJK,1993,exchange_rate,0.010357405,local currency per US$,World Bank WDI
+TJK,1992,exchange_rate,0.00246851796666666,local currency per US$,World Bank WDI
+UZB,2025,exchange_rate,12579.3943476702,local currency per US$,World Bank WDI
+UZB,2024,exchange_rate,12652.2868209739,local currency per US$,World Bank WDI
+UZB,2023,exchange_rate,11734.8334198668,local currency per US$,World Bank WDI
+UZB,2022,exchange_rate,11050.145422363,local currency per US$,World Bank WDI
+UZB,2021,exchange_rate,10609.464390809,local currency per US$,World Bank WDI
+UZB,2020,exchange_rate,10054.2613341653,local currency per US$,World Bank WDI
+UZB,2019,exchange_rate,8836.7875,local currency per US$,World Bank WDI
+UZB,2018,exchange_rate,8069.60623655914,local currency per US$,World Bank WDI
+UZB,2017,exchange_rate,5113.87894595717,local currency per US$,World Bank WDI
+UZB,2016,exchange_rate,2965.25349937684,local currency per US$,World Bank WDI
+UZB,2015,exchange_rate,2567.98721339827,local currency per US$,World Bank WDI
+UZB,2014,exchange_rate,2310.94815880696,local currency per US$,World Bank WDI
+UZB,2013,exchange_rate,2094.98846505376,local currency per US$,World Bank WDI
+UZB,2000,exchange_rate,236.608333333333,local currency per US$,World Bank WDI
+UZB,1999,exchange_rate,124.625,local currency per US$,World Bank WDI
+UZB,1998,exchange_rate,94.4916666666666,local currency per US$,World Bank WDI
+UZB,1997,exchange_rate,62.9166666666666,local currency per US$,World Bank WDI
+UZB,1996,exchange_rate,40.0666666666666,local currency per US$,World Bank WDI
+UZB,1995,exchange_rate,29.775,local currency per US$,World Bank WDI
+CHN,2025,ppg_external_debt_usd,460227477118.3,US$,World Bank WDI
+CHN,2024,ppg_external_debt_usd,504112530899.5,US$,World Bank WDI
+CHN,2023,ppg_external_debt_usd,487485728323.4,US$,World Bank WDI
+CHN,2022,ppg_external_debt_usd,538306975033.8,US$,World Bank WDI
+CHN,2021,ppg_external_debt_usd,554292253836.6,US$,World Bank WDI
+CHN,2020,ppg_external_debt_usd,391681803929.2,US$,World Bank WDI
+CHN,2019,ppg_external_debt_usd,318064268908.1,US$,World Bank WDI
+CHN,2018,ppg_external_debt_usd,259686605796.7,US$,World Bank WDI
+CHN,2017,ppg_external_debt_usd,196289557624.3,US$,World Bank WDI
+CHN,2016,ppg_external_debt_usd,160185552754.2,US$,World Bank WDI
+CHN,2015,ppg_external_debt_usd,146061922841.7,US$,World Bank WDI
+CHN,2014,ppg_external_debt_usd,179054045596.0,US$,World Bank WDI
+CHN,2013,ppg_external_debt_usd,152549448206.9,US$,World Bank WDI
+CHN,2012,ppg_external_debt_usd,138509762348.5,US$,World Bank WDI
+CHN,2011,ppg_external_debt_usd,114632474016.0,US$,World Bank WDI
+CHN,2010,ppg_external_debt_usd,102274809825.7,US$,World Bank WDI
+CHN,2009,ppg_external_debt_usd,100871770852.1,US$,World Bank WDI
+CHN,2008,ppg_external_debt_usd,97096164293.7,US$,World Bank WDI
+CHN,2007,ppg_external_debt_usd,91392949315.9,US$,World Bank WDI
+CHN,2006,ppg_external_debt_usd,89020277941.6,US$,World Bank WDI
+CHN,2005,ppg_external_debt_usd,86759585790.9,US$,World Bank WDI
+CHN,2004,ppg_external_debt_usd,89063456249.2,US$,World Bank WDI
+CHN,2003,ppg_external_debt_usd,83705626282.3,US$,World Bank WDI
+CHN,2002,ppg_external_debt_usd,87624812204.1,US$,World Bank WDI
+CHN,2001,ppg_external_debt_usd,90973850330.2,US$,World Bank WDI
+CHN,2000,ppg_external_debt_usd,94729343675.7,US$,World Bank WDI
+CHN,1999,ppg_external_debt_usd,95632563620.8,US$,World Bank WDI
+CHN,1998,ppg_external_debt_usd,99631810291.8,US$,World Bank WDI
+CHN,1997,ppg_external_debt_usd,113029031209.9,US$,World Bank WDI
+CHN,1996,ppg_external_debt_usd,102480131407.6,US$,World Bank WDI
+CHN,1995,ppg_external_debt_usd,94899530047.0,US$,World Bank WDI
+CHN,1994,ppg_external_debt_usd,82601707411.3,US$,World Bank WDI
+CHN,1993,ppg_external_debt_usd,70241238669.9,US$,World Bank WDI
+CHN,1992,ppg_external_debt_usd,58573494534.7,US$,World Bank WDI
+CHN,1991,ppg_external_debt_usd,49479186451.5,US$,World Bank WDI
+CHN,1990,ppg_external_debt_usd,45515193868.2,US$,World Bank WDI
+KAZ,2025,ppg_external_debt_usd,44414705680.3,US$,World Bank WDI
+KAZ,2024,ppg_external_debt_usd,34561236154.4,US$,World Bank WDI
+KAZ,2023,ppg_external_debt_usd,32828744888.4,US$,World Bank WDI
+KAZ,2022,ppg_external_debt_usd,36143907771.4,US$,World Bank WDI
+KAZ,2021,ppg_external_debt_usd,40368641923.1,US$,World Bank WDI
+KAZ,2020,ppg_external_debt_usd,37636701853.5,US$,World Bank WDI
+KAZ,2019,ppg_external_debt_usd,36420510623.6,US$,World Bank WDI
+KAZ,2018,ppg_external_debt_usd,28370267987.8,US$,World Bank WDI
+KAZ,2017,ppg_external_debt_usd,25412286778.8,US$,World Bank WDI
+KAZ,2016,ppg_external_debt_usd,24915339661.9,US$,World Bank WDI
+KAZ,2015,ppg_external_debt_usd,23080779110.4,US$,World Bank WDI
+KAZ,2014,ppg_external_debt_usd,17652786225.5,US$,World Bank WDI
+KAZ,2013,ppg_external_debt_usd,14479564883.9,US$,World Bank WDI
+KAZ,2012,ppg_external_debt_usd,7693884906.0,US$,World Bank WDI
+KAZ,2011,ppg_external_debt_usd,4683346738.1,US$,World Bank WDI
+KAZ,2010,ppg_external_debt_usd,3845400702.0,US$,World Bank WDI
+KAZ,2009,ppg_external_debt_usd,2486919435.6,US$,World Bank WDI
+KAZ,2008,ppg_external_debt_usd,1914944960.3,US$,World Bank WDI
+KAZ,2007,ppg_external_debt_usd,1697673219.1,US$,World Bank WDI
+KAZ,2006,ppg_external_debt_usd,2136184355.0,US$,World Bank WDI
+KAZ,2005,ppg_external_debt_usd,2176814017.9,US$,World Bank WDI
+KAZ,2004,ppg_external_debt_usd,3233697361.7,US$,World Bank WDI
+KAZ,2003,ppg_external_debt_usd,3468484699.8,US$,World Bank WDI
+KAZ,2002,ppg_external_debt_usd,3210366374.4,US$,World Bank WDI
+KAZ,2001,ppg_external_debt_usd,3450228171.8,US$,World Bank WDI
+KAZ,2000,ppg_external_debt_usd,3622524708.4,US$,World Bank WDI
+KAZ,1999,ppg_external_debt_usd,3360066647.7,US$,World Bank WDI
+KAZ,1998,ppg_external_debt_usd,3037778280.6,US$,World Bank WDI
+KAZ,1997,ppg_external_debt_usd,2621642893.7,US$,World Bank WDI
+KAZ,1996,ppg_external_debt_usd,1946478598.0,US$,World Bank WDI
+KAZ,1995,ppg_external_debt_usd,2833835988.6,US$,World Bank WDI
+KAZ,1994,ppg_external_debt_usd,2226969331.4,US$,World Bank WDI
+KAZ,1993,ppg_external_debt_usd,1621139995.2,US$,World Bank WDI
+KAZ,1992,ppg_external_debt_usd,25747844.5,US$,World Bank WDI
+KGZ,2025,ppg_external_debt_usd,5140959288.4,US$,World Bank WDI
+KGZ,2024,ppg_external_debt_usd,4216395964.6,US$,World Bank WDI
+KGZ,2023,ppg_external_debt_usd,4192256559.8,US$,World Bank WDI
+KGZ,2022,ppg_external_debt_usd,4030926310.1,US$,World Bank WDI
+KGZ,2021,ppg_external_debt_usd,3958367257.1,US$,World Bank WDI
+KGZ,2020,ppg_external_debt_usd,3842999656.9,US$,World Bank WDI
+KGZ,2019,ppg_external_debt_usd,3711762703.0,US$,World Bank WDI
+KGZ,2018,ppg_external_debt_usd,3653132841.1,US$,World Bank WDI
+KGZ,2017,ppg_external_debt_usd,3890453228.9,US$,World Bank WDI
+KGZ,2016,ppg_external_debt_usd,3607316575.5,US$,World Bank WDI
+KGZ,2015,ppg_external_debt_usd,3430742233.2,US$,World Bank WDI
+KGZ,2014,ppg_external_debt_usd,3250347394.1,US$,World Bank WDI
+KGZ,2013,ppg_external_debt_usd,2956303176.5,US$,World Bank WDI
+KGZ,2012,ppg_external_debt_usd,2849821878.4,US$,World Bank WDI
+KGZ,2011,ppg_external_debt_usd,2625642161.2,US$,World Bank WDI
+KGZ,2010,ppg_external_debt_usd,2445760663.4,US$,World Bank WDI
+KGZ,2009,ppg_external_debt_usd,2319398012.3,US$,World Bank WDI
+KGZ,2008,ppg_external_debt_usd,1962692054.0,US$,World Bank WDI
+KGZ,2007,ppg_external_debt_usd,1895677802.1,US$,World Bank WDI
+KGZ,2006,ppg_external_debt_usd,1828669476.9,US$,World Bank WDI
+KGZ,2005,ppg_external_debt_usd,1664798694.6,US$,World Bank WDI
+KGZ,2004,ppg_external_debt_usd,1740484968.7,US$,World Bank WDI
+KGZ,2003,ppg_external_debt_usd,1584515242.6,US$,World Bank WDI
+KGZ,2002,ppg_external_debt_usd,1397306326.2,US$,World Bank WDI
+KGZ,2001,ppg_external_debt_usd,1256777489.3,US$,World Bank WDI
+KGZ,2000,ppg_external_debt_usd,1220286348.7,US$,World Bank WDI
+KGZ,1999,ppg_external_debt_usd,1134415851.2,US$,World Bank WDI
+KGZ,1998,ppg_external_debt_usd,933903095.9,US$,World Bank WDI
+KGZ,1997,ppg_external_debt_usd,750609307.4,US$,World Bank WDI
+KGZ,1996,ppg_external_debt_usd,626272997.6,US$,World Bank WDI
+KGZ,1995,ppg_external_debt_usd,472183244.5,US$,World Bank WDI
+KGZ,1994,ppg_external_debt_usd,356088043.6,US$,World Bank WDI
+KGZ,1993,ppg_external_debt_usd,231716372.3,US$,World Bank WDI
+KGZ,1992,ppg_external_debt_usd,5527412.0,US$,World Bank WDI
+RUS,2022,ppg_external_debt_usd,136085550789.8,US$,World Bank WDI
+RUS,2021,ppg_external_debt_usd,176768541915.4,US$,World Bank WDI
+RUS,2020,ppg_external_debt_usd,193502059943.3,US$,World Bank WDI
+RUS,2019,ppg_external_debt_usd,201325059992.6,US$,World Bank WDI
+RUS,2018,ppg_external_debt_usd,195226144340.3,US$,World Bank WDI
+RUS,2017,ppg_external_debt_usd,216167127962.8,US$,World Bank WDI
+RUS,2016,ppg_external_debt_usd,185494821008.2,US$,World Bank WDI
+RUS,2015,ppg_external_debt_usd,212190013930.2,US$,World Bank WDI
+RUS,2014,ppg_external_debt_usd,231872506844.7,US$,World Bank WDI
+RUS,2013,ppg_external_debt_usd,273847740156.1,US$,World Bank WDI
+RUS,2012,ppg_external_debt_usd,210035052084.8,US$,World Bank WDI
+RUS,2011,ppg_external_debt_usd,195471230960.0,US$,World Bank WDI
+RUS,2010,ppg_external_debt_usd,165665068825.3,US$,World Bank WDI
+RUS,2009,ppg_external_debt_usd,145896330317.6,US$,World Bank WDI
+RUS,2008,ppg_external_debt_usd,125284976467.1,US$,World Bank WDI
+RUS,2007,ppg_external_debt_usd,125238710689.2,US$,World Bank WDI
+RUS,2006,ppg_external_debt_usd,97206817768.4,US$,World Bank WDI
+RUS,2005,ppg_external_debt_usd,76005809710.6,US$,World Bank WDI
+RUS,2004,ppg_external_debt_usd,92130795237.9,US$,World Bank WDI
+RUS,2003,ppg_external_debt_usd,84962852957.8,US$,World Bank WDI
+RUS,2002,ppg_external_debt_usd,79421946677.8,US$,World Bank WDI
+RUS,2001,ppg_external_debt_usd,85292632574.9,US$,World Bank WDI
+RUS,2000,ppg_external_debt_usd,90270420402.2,US$,World Bank WDI
+RUS,1999,ppg_external_debt_usd,118812116899.6,US$,World Bank WDI
+RUS,1998,ppg_external_debt_usd,119242285204.6,US$,World Bank WDI
+RUS,1997,ppg_external_debt_usd,106937580211.9,US$,World Bank WDI
+RUS,1996,ppg_external_debt_usd,102391857383.0,US$,World Bank WDI
+RUS,1995,ppg_external_debt_usd,102097010119.0,US$,World Bank WDI
+RUS,1994,ppg_external_debt_usd,108301652541.7,US$,World Bank WDI
+RUS,1993,ppg_external_debt_usd,101701066418.2,US$,World Bank WDI
+RUS,1992,ppg_external_debt_usd,64571299242.1,US$,World Bank WDI
+TJK,2025,ppg_external_debt_usd,2860343922.9,US$,World Bank WDI
+TJK,2024,ppg_external_debt_usd,3041941413.8,US$,World Bank WDI
+TJK,2023,ppg_external_debt_usd,3117284204.5,US$,World Bank WDI
+TJK,2022,ppg_external_debt_usd,3096660238.3,US$,World Bank WDI
+TJK,2021,ppg_external_debt_usd,3164763003.5,US$,World Bank WDI
+TJK,2020,ppg_external_debt_usd,3080100932.3,US$,World Bank WDI
+TJK,2019,ppg_external_debt_usd,2838545473.5,US$,World Bank WDI
+TJK,2018,ppg_external_debt_usd,2855769335.0,US$,World Bank WDI
+TJK,2017,ppg_external_debt_usd,2833111877.4,US$,World Bank WDI
+TJK,2016,ppg_external_debt_usd,2175047470.2,US$,World Bank WDI
+TJK,2015,ppg_external_debt_usd,2095091503.1,US$,World Bank WDI
+TJK,2014,ppg_external_debt_usd,1983866237.9,US$,World Bank WDI
+TJK,2013,ppg_external_debt_usd,2010512876.5,US$,World Bank WDI
+TJK,2012,ppg_external_debt_usd,1999580830.9,US$,World Bank WDI
+TJK,2011,ppg_external_debt_usd,1966046663.2,US$,World Bank WDI
+TJK,2010,ppg_external_debt_usd,1805928324.0,US$,World Bank WDI
+TJK,2009,ppg_external_debt_usd,1606209064.5,US$,World Bank WDI
+TJK,2008,ppg_external_debt_usd,1378916877.9,US$,World Bank WDI
+TJK,2007,ppg_external_debt_usd,1067270172.1,US$,World Bank WDI
+TJK,2006,ppg_external_debt_usd,832405978.4,US$,World Bank WDI
+TJK,2005,ppg_external_debt_usd,821072009.5,US$,World Bank WDI
+TJK,2004,ppg_external_debt_usd,807299588.8,US$,World Bank WDI
+TJK,2003,ppg_external_debt_usd,911502930.5,US$,World Bank WDI
+TJK,2002,ppg_external_debt_usd,902438467.3,US$,World Bank WDI
+TJK,2001,ppg_external_debt_usd,761609230.7,US$,World Bank WDI
+TJK,2000,ppg_external_debt_usd,755073275.5,US$,World Bank WDI
+TJK,1999,ppg_external_debt_usd,733689738.9,US$,World Bank WDI
+TJK,1998,ppg_external_debt_usd,691213447.9,US$,World Bank WDI
+TJK,1997,ppg_external_debt_usd,656870000.0,US$,World Bank WDI
+TJK,1996,ppg_external_debt_usd,653471000.0,US$,World Bank WDI
+TJK,1995,ppg_external_debt_usd,586995000.0,US$,World Bank WDI
+TJK,1994,ppg_external_debt_usd,559618000.0,US$,World Bank WDI
+TJK,1993,ppg_external_debt_usd,382514000.0,US$,World Bank WDI
+TJK,1992,ppg_external_debt_usd,9731000.0,US$,World Bank WDI
+UZB,2025,ppg_external_debt_usd,47264391398.8,US$,World Bank WDI
+UZB,2024,ppg_external_debt_usd,39506930498.1,US$,World Bank WDI
+UZB,2023,ppg_external_debt_usd,32990564016.7,US$,World Bank WDI
+UZB,2022,ppg_external_debt_usd,29258375673.5,US$,World Bank WDI
+UZB,2021,ppg_external_debt_usd,25955007857.7,US$,World Bank WDI
+UZB,2020,ppg_external_debt_usd,22173317490.6,US$,World Bank WDI
+UZB,2019,ppg_external_debt_usd,15347065500.5,US$,World Bank WDI
+UZB,2018,ppg_external_debt_usd,9935334116.5,US$,World Bank WDI
+UZB,2017,ppg_external_debt_usd,7553257611.7,US$,World Bank WDI
+UZB,2016,ppg_external_debt_usd,6442910516.1,US$,World Bank WDI
+UZB,2015,ppg_external_debt_usd,5731951362.6,US$,World Bank WDI
+UZB,2014,ppg_external_debt_usd,4821099896.0,US$,World Bank WDI
+UZB,2013,ppg_external_debt_usd,4319953006.4,US$,World Bank WDI
+UZB,2012,ppg_external_debt_usd,3947093949.6,US$,World Bank WDI
+UZB,2011,ppg_external_debt_usd,3758625190.3,US$,World Bank WDI
+UZB,2010,ppg_external_debt_usd,3428320482.8,US$,World Bank WDI
+UZB,2009,ppg_external_debt_usd,3274777886.5,US$,World Bank WDI
+UZB,2008,ppg_external_debt_usd,3194584823.5,US$,World Bank WDI
+UZB,2007,ppg_external_debt_usd,3191418159.6,US$,World Bank WDI
+UZB,2006,ppg_external_debt_usd,3324724420.4,US$,World Bank WDI
+UZB,2005,ppg_external_debt_usd,3631932384.6,US$,World Bank WDI
+UZB,2004,ppg_external_debt_usd,4114454937.8,US$,World Bank WDI
+UZB,2003,ppg_external_debt_usd,4154636239.8,US$,World Bank WDI
+UZB,2002,ppg_external_debt_usd,4010323146.5,US$,World Bank WDI
+UZB,2001,ppg_external_debt_usd,3901653927.2,US$,World Bank WDI
+UZB,2000,ppg_external_debt_usd,3770623040.1,US$,World Bank WDI
+UZB,1999,ppg_external_debt_usd,3580846901.1,US$,World Bank WDI
+UZB,1998,ppg_external_debt_usd,2675101126.9,US$,World Bank WDI
+UZB,1997,ppg_external_debt_usd,2125961621.7,US$,World Bank WDI
+UZB,1996,ppg_external_debt_usd,1998399252.8,US$,World Bank WDI
+UZB,1995,ppg_external_debt_usd,1419569410.9,US$,World Bank WDI
+UZB,1994,ppg_external_debt_usd,952426534.1,US$,World Bank WDI
+UZB,1993,ppg_external_debt_usd,939492376.2,US$,World Bank WDI
+UZB,1992,ppg_external_debt_usd,59702042.9,US$,World Bank WDI
+TJK,1993,debt_to_china_usd,0.0,US$,World Bank IDS
+TJK,1994,debt_to_china_usd,0.0,US$,World Bank IDS
+TJK,1995,debt_to_china_usd,1810000.0,US$,World Bank IDS
+TJK,1996,debt_to_china_usd,5300000.0,US$,World Bank IDS
+TJK,1997,debt_to_china_usd,5300000.0,US$,World Bank IDS
+TJK,1998,debt_to_china_usd,5300000.0,US$,World Bank IDS
+TJK,1999,debt_to_china_usd,5299472.8,US$,World Bank IDS
+TJK,2000,debt_to_china_usd,3624327.0,US$,World Bank IDS
+TJK,2001,debt_to_china_usd,3624589.2,US$,World Bank IDS
+TJK,2002,debt_to_china_usd,5682767.0,US$,World Bank IDS
+TJK,2003,debt_to_china_usd,6690055.0,US$,World Bank IDS
+TJK,2004,debt_to_china_usd,6690201.0,US$,World Bank IDS
+TJK,2005,debt_to_china_usd,6844687.8,US$,World Bank IDS
+TJK,2006,debt_to_china_usd,37073904.8,US$,World Bank IDS
+TJK,2007,debt_to_china_usd,223588001.8,US$,World Bank IDS
+TJK,2008,debt_to_china_usd,493989000.0,US$,World Bank IDS
+TJK,2009,debt_to_china_usd,640930000.0,US$,World Bank IDS
+TJK,2010,debt_to_china_usd,739278000.0,US$,World Bank IDS
+TJK,2011,debt_to_china_usd,878473000.0,US$,World Bank IDS
+TJK,2012,debt_to_china_usd,883713000.0,US$,World Bank IDS
+TJK,2013,debt_to_china_usd,899627898.2,US$,World Bank IDS
+TJK,2014,debt_to_china_usd,901478000.0,US$,World Bank IDS
+TJK,2015,debt_to_china_usd,1045616210.0,US$,World Bank IDS
+TJK,2016,debt_to_china_usd,1152838565.8,US$,World Bank IDS
+TJK,2017,debt_to_china_usd,1187398391.1,US$,World Bank IDS
+TJK,2018,debt_to_china_usd,1169146141.4,US$,World Bank IDS
+TJK,2019,debt_to_china_usd,1122724492.1,US$,World Bank IDS
+TJK,2020,debt_to_china_usd,1148739173.9,US$,World Bank IDS
+TJK,2021,debt_to_china_usd,1109908443.8,US$,World Bank IDS
+TJK,2022,debt_to_china_usd,986367740.2,US$,World Bank IDS
+TJK,2023,debt_to_china_usd,906629242.3,US$,World Bank IDS
+TJK,2024,debt_to_china_usd,824891907.2,US$,World Bank IDS
+TJK,2025,debt_to_china_usd,737951680.4,US$,World Bank IDS
+TJK,1993,debt_to_russia_usd,80400000.0,US$,World Bank IDS
+TJK,1994,debt_to_russia_usd,249004000.0,US$,World Bank IDS
+TJK,1995,debt_to_russia_usd,259004000.0,US$,World Bank IDS
+TJK,1996,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,1997,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,1998,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,1999,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,2000,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,2001,debt_to_russia_usd,287700000.0,US$,World Bank IDS
+TJK,2002,debt_to_russia_usd,342868000.0,US$,World Bank IDS
+TJK,2003,debt_to_russia_usd,311264000.0,US$,World Bank IDS
+TJK,2004,debt_to_russia_usd,50000000.0,US$,World Bank IDS
+TJK,2005,debt_to_russia_usd,40000000.0,US$,World Bank IDS
+TJK,2006,debt_to_russia_usd,23000000.0,US$,World Bank IDS
+TJK,2007,debt_to_russia_usd,17000000.0,US$,World Bank IDS
+TJK,2008,debt_to_russia_usd,0.0,US$,World Bank IDS

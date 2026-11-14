@@ -1,0 +1,4 @@
+specification,hypothesis,chi2,df,p_value,n
+Spec 1,"growth_RUS = 0, growth_CHN = 0",17.416346170760427,2,0.00016522983971395123,28
+Spec 2,"trade_index = 0, remit_index = 0",15.851198117061452,2,0.0003613733012151849,28
+Spec 3 (panel),"trade_index = 0, remit_index = 0",22.988990173832526,2,1.0186012656984766e-05,112
